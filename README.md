@@ -14,18 +14,16 @@ We're hiring for a team that builds fast, thinks independently, and takes owners
 
 ## The Challenge
 
-Build the **buyer side of a vehicle auction platform using the primary platform for the role you're interviewing for**. We've included a dataset of 200 vehicles in [`data/vehicles.json`](data/vehicles.json), each listed by a selling dealership.
+Build the **buyer side of a vehicle auction platform as a web application**. We've included a dataset of 200 vehicles in [`data/vehicles.json`](data/vehicles.json), each listed by a selling dealership.
 
 A buyer should be able to browse inventory, inspect vehicle details, and place bids. That's the core experience. How you structure the product and how far you take it is up to you.
-
-> **Important:** You only need to build for the platform relevant to your role. You do **not** need to support web, iOS, and Android in the same submission.
 
 ## Core Requirements
 
 - Browse and search the vehicle inventory
 - Vehicle detail views with specs, condition, damage notes, selling dealership, and photos
 - A bidding experience where a buyer can place bids on vehicles
-- An experience that feels polished and appropriate for the platform you're targeting
+- A responsive web experience that works well on desktop and mobile browsers
 - Clear instructions in your README for how to run the project locally
 
 ## Assumptions You Can Make
@@ -33,7 +31,7 @@ A buyer should be able to browse inventory, inspect vehicle details, and place b
 - This is a prototype, not a production launch.
 - Target roughly **4-8 hours** of work. If you spend more, that's your call, but we do not expect a fully built marketplace.
 - Use any framework, language, or stack.
-- If you want to align with our current stack, React is preferred for web, Kotlin + Jetpack Compose for Android, and Swift + SwiftUI for iOS. None of these are required.
+- If you want to align with our current web stack, React is preferred. Tailwind is a good fit, but neither is required.
 - You may use AI tools and coding assistants, and their use is encouraged. Be ready to explain how you used them, what decisions you made, and what parts of the implementation you would refine.
 - Authentication and user accounts are **not required**.
 - A frontend-only implementation is completely acceptable.
@@ -48,7 +46,7 @@ At a minimum, we want to see:
 - Inventory browsing and search
 - A clear vehicle detail experience
 - A bid flow with updated visible state
-- A usable experience on the platform you chose
+- A usable experience on desktop and mobile
 - A repo we can clone and run by following your README
 
 ## Stretch Ideas
