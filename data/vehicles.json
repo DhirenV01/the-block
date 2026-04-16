@@ -33,7 +33,8 @@
     "selling_dealership": "Highway 7 Auto Sales",
     "lot": "A-0001",
     "current_bid": 21000,
-    "bid_count": 11
+    "bid_count": 11,
+    "condition_summary": "This vehicle is in excellent condition with a clean interior and exterior showing only minor cosmetic wear consistent with normal use. All electronics and mechanical features are fully functional with no structural damage noted."
   },
   {
     "id": "0d6607da-d827-4da6-bfbb-ecab5dbd77c5",
@@ -74,7 +75,8 @@
     "selling_dealership": "Golden Horseshoe Motors",
     "lot": "A-0002",
     "current_bid": 12500,
-    "bid_count": 13
+    "bid_count": 13,
+    "condition_summary": "This vehicle is in rough overall condition with a clean title and operational core mechanical systems, but shows visible wear including curb rash on the front-right wheel and minor scratches on the front bumper. It is suitable for buyers prepared to handle repairs and cosmetic restoration work."
   },
   {
     "id": "c42d7e04-4ae5-4ad4-b638-67f11789f269",
@@ -114,7 +116,8 @@
     "selling_dealership": "Grand Touring Motors",
     "lot": "A-0003",
     "current_bid": 10000,
-    "bid_count": 1
+    "bid_count": 1,
+    "condition_summary": "This vehicle is in below-average condition with visible damage including a dent on the tailgate and a dent on the rear quarter panel that may require repair. The clean title and current bid of $10,000.00 suggest potential value despite the noted cosmetic damage requiring maintenance attention."
   },
   {
     "id": "1dfa77c7-854a-4ada-bf95-6220eeb28d01",
@@ -153,7 +156,8 @@
     "selling_dealership": "Fraser Valley Auto Group",
     "lot": "A-0004",
     "current_bid": 34000,
-    "bid_count": 9
+    "bid_count": 9,
+    "condition_summary": "This vehicle is in fair overall condition with a clean title and drives well, though the interior shows some wear and there are minor exterior blemishes. The roof has light hail damage that is the primary cosmetic concern."
   },
   {
     "id": "dc3de592-b252-469d-853f-4e792323b665",
@@ -190,7 +194,8 @@
     "selling_dealership": "Harbour City Auto",
     "lot": "A-0005",
     "current_bid": 30500,
-    "bid_count": 2
+    "bid_count": 2,
+    "condition_summary": "This vehicle is in average condition with visible wear on high-touch surfaces, though the engine and transmission operate normally. No structural or mechanical damage has been noted, and the title is clean."
   },
   {
     "id": "7d173c88-92ed-4d22-9b71-2eec3fc43092",
@@ -234,7 +239,8 @@
     "selling_dealership": "Westcoast Auto Sales",
     "lot": "A-0006",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This salvage-title vehicle has a slipping transmission between 2nd and 3rd gear, water damage to the rear cargo carpet, and worn brake rotors requiring replacement. Additional damage includes a dent on the driver-side door, a dent on the rear quarter panel, and paint chips on the hood, making this vehicle suitable only for parts or a complete rebuild."
   },
   {
     "id": "64dd7819-a112-41ef-8826-0f7edc8999ad",
@@ -270,7 +276,8 @@
     "selling_dealership": "Island Auto Exchange",
     "lot": "A-0007",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in excellent condition with a clean title, featuring a well-maintained interior and exterior with only minor cosmetic wear consistent with normal use. All electronics and mechanical features are fully functional with no significant damage noted."
   },
   {
     "id": "1e5fa504-2dae-44ad-862e-3f24aeb85c29",
@@ -312,7 +319,8 @@
     "selling_dealership": "Maple Motors",
     "lot": "A-0008",
     "current_bid": 15500,
-    "bid_count": 9
+    "bid_count": 9,
+    "condition_summary": "This vehicle has a rebuilt title and shows significant wear with multiple cosmetic issues including a scratched liftgate, curb damage on the front-right wheel, minor front bumper scratches, light hail damage across the roof, and peeling paint on the roof rack. The core mechanical systems are operational, making it suitable for buyers prepared to handle cosmetic repairs."
   },
   {
     "id": "dc698185-c2c8-47c9-b042-884ec9f48bc5",
@@ -347,7 +355,8 @@
     "selling_dealership": "Parkway Ford",
     "lot": "A-0009",
     "current_bid": 47000,
-    "bid_count": 12
+    "bid_count": 12,
+    "condition_summary": "This vehicle is in above-average condition with all mechanical systems functioning properly and recently serviced new tires. No damage has been noted, and it comes with a clean title."
   },
   {
     "id": "1e9da018-4bac-4154-a00a-421a3cf4bb66",
@@ -390,7 +399,8 @@
     "selling_dealership": "Chinook Auto Group",
     "lot": "A-0010",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows heavy wear with a 2.7/5 condition grade and requires several repairs, including a cracked rear taillight housing, torn rear seat upholstery, and paint touch-ups on the hood from rock chips. Additional cosmetic damage includes scuff marks on door sill plates and minor scratches on the front bumper, with pricing adjusted accordingly for the needed work."
   },
   {
     "id": "0d92938b-e078-448b-93a6-ad2cf43223c8",
@@ -434,7 +444,8 @@
     "selling_dealership": "Laurentian Auto Group",
     "lot": "A-0011",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows significant cosmetic wear including a small dent on the driver-side door, scuff marks on the door sill plates, paint peeling on the roof rack, and faded headlight lenses. The interior has a small tear in the rear seat upholstery, and a mechanical inspection is recommended before purchase."
   },
   {
     "id": "e9979e45-f71f-49ac-b2bc-d28220e9c091",
@@ -475,7 +486,8 @@
     "selling_dealership": "Rive-Sud Motors",
     "lot": "A-0012",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in average condition with a clean title and functioning engine and transmission that perform normally. Visible wear includes scuff marks on the door sill plates, a minor scrape on the passenger-side mirror, and worn leather on the driver seat bolster."
   },
   {
     "id": "619113d9-6207-406e-9baf-015ca103f8f6",
@@ -515,7 +527,8 @@
     "selling_dealership": "Laurentian Auto Group",
     "lot": "A-0013",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows moderate wear consistent with previous daily use and runs and drives without issue, though it has a small tear in the rear seat upholstery and a dent on the rear quarter panel that would benefit from cosmetic repair. The clean title and solid mechanical condition make it a reasonable project vehicle for buyers willing to address minor interior and exterior touch-ups."
   },
   {
     "id": "047128d1-44da-44f3-8259-e6af732ffb15",
@@ -555,7 +568,8 @@
     "selling_dealership": "Metropolitain Auto",
     "lot": "A-0014",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in average condition with a cracked front grille and scuff marks on the door sill plates as the primary visible damage. The engine and transmission operate normally, and the title is clean, making this a solid option for buyers willing to address cosmetic repairs."
   },
   {
     "id": "629d5ba0-3a11-4d6f-b34f-841de887888a",
@@ -598,7 +612,8 @@
     "selling_dealership": "King City Auto",
     "lot": "A-0015",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in rough condition with a 2.8/5 grade rating and shows multiple wear issues including a worn driver's seat bolster, driver-side fender scratch, passenger-side windshield chip, and minor rust on the wheel wells. While the core mechanical systems are operational, the brake rotors are worn and due for replacement, making this suitable only for buyers prepared to handle repairs."
   },
   {
     "id": "ab4c783d-9f1a-4147-88b4-a24a7ae356f5",
@@ -640,7 +655,8 @@
     "selling_dealership": "Durham Auto Exchange",
     "lot": "A-0016",
     "current_bid": 18000,
-    "bid_count": 18
+    "bid_count": 18,
+    "condition_summary": "This vehicle is in below-average condition with a check engine light indicating a catalytic converter code that will require repair. Cosmetic damage includes a scratch on the liftgate and worn leather on the driver seat bolster."
   },
   {
     "id": "e2f096b7-ae41-45f1-94bb-67990ce845c7",
@@ -675,7 +691,8 @@
     "selling_dealership": "Prairie Sun Motors",
     "lot": "A-0017",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in excellent condition with a clean interior showing minimal wear and a well-maintained exterior consistent with its age. No damage has been noted, and the vehicle comes with a clean title."
   },
   {
     "id": "dc6f1a25-5b0e-4919-b816-eb41d3b5e581",
@@ -715,7 +732,8 @@
     "selling_dealership": "Highway 7 Auto Sales",
     "lot": "A-0018",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows heavy wear with a salvage title and requires several repairs, including a missing wheel center cap, paint touch-up on the hood from rock chips, and worn leather on the driver seat bolster. The $4,000 starting bid reflects the vehicle's condition and the work needed to bring it to acceptable condition."
   },
   {
     "id": "13ba6ca1-67c1-4a2f-8f5d-01ef55cc7bc6",
@@ -753,7 +771,8 @@
     "selling_dealership": "King City Auto",
     "lot": "A-0019",
     "current_bid": 29000,
-    "bid_count": 14
+    "bid_count": 14,
+    "condition_summary": "This vehicle is in average condition with normal engine and transmission performance, though it shows visible wear on frequently touched surfaces. There is a dent on the rear quarter panel that is the primary cosmetic damage noted."
   },
   {
     "id": "aafb1dad-0c45-4456-a39e-4dd52edecc25",
@@ -791,7 +810,8 @@
     "selling_dealership": "Parkway Ford",
     "lot": "A-0020",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is mechanically sound with a clean title and shows average wear consistent with its age and mileage, though some minor cosmetic imperfections are present. No structural or mechanical damage has been noted."
   },
   {
     "id": "ae71e698-1d72-4bea-95c5-9c5a4c7ff556",
@@ -827,7 +847,8 @@
     "selling_dealership": "Laurentian Auto Group",
     "lot": "A-0021",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in above-average condition with all mechanical systems functioning properly and recently serviced with new tires. No damage has been noted, and it comes with a clean title."
   },
   {
     "id": "599e7dbe-377c-4b84-958f-06167459bfcf",
@@ -867,7 +888,8 @@
     "selling_dealership": "Laurentian Auto Group",
     "lot": "A-0022",
     "current_bid": 37000,
-    "bid_count": 1
+    "bid_count": 1,
+    "condition_summary": "This vehicle is in fair overall condition with a clean title and drives well, though the interior shows some wear consistent with age and use. The exterior has a small dent on the driver-side door and a scratch on the liftgate, with no other major damage noted."
   },
   {
     "id": "18183763-79d8-43b0-be01-7242477cf0da",
@@ -902,7 +924,8 @@
     "selling_dealership": "Stampede Auto Exchange",
     "lot": "A-0023",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in exceptional condition with no damage noted, having been garage kept by a single previous owner with no reported mechanical issues. The vehicle has a clean title and is ready for immediate use."
   },
   {
     "id": "620ff36e-df82-4574-8225-36103ca43dcb",
@@ -938,7 +961,8 @@
     "selling_dealership": "Prairie Motors",
     "lot": "A-0024",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in excellent overall condition with a clean interior showing minimal wear and a well-maintained exterior consistent with its age. No damage has been noted, making this a high-quality acquisition at the starting bid of $31,000."
   },
   {
     "id": "a1a67541-dfb2-412e-925a-508e13dde1fe",
@@ -975,7 +999,8 @@
     "selling_dealership": "Champlain Motors",
     "lot": "A-0025",
     "current_bid": 15000,
-    "bid_count": 1
+    "bid_count": 1,
+    "condition_summary": "This vehicle is in fair overall condition with a rebuilt title and drives well, though the interior shows wear including worn leather on the driver seat bolster. The exterior has minor blemishes, but no major structural or mechanical damage is noted."
   },
   {
     "id": "07e6b39c-da56-4979-93b3-af10e339502d",
@@ -1016,7 +1041,8 @@
     "selling_dealership": "Stampede Auto Exchange",
     "lot": "A-0026",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in average condition with a functioning engine and transmission, though it shows visible wear on frequently touched surfaces. The front-right wheel has curb rash and the rear bumper has a parking scratch, both cosmetic issues that do not affect mechanical operation."
   },
   {
     "id": "26955807-abf7-43c9-9023-09ecb60bf678",
@@ -1058,7 +1084,8 @@
     "selling_dealership": "Parkway Ford",
     "lot": "A-0027",
     "current_bid": 13500,
-    "bid_count": 14
+    "bid_count": 14,
+    "condition_summary": "This vehicle is in rough condition with a 2.7/5 grade rating and has a small dent on the driver-side door, a dent on the rear quarter panel, minor rust on the wheel wells, and an intermittent AC compressor requiring diagnosis. The core mechanical systems are operational and the title is clean, making it suitable for buyers comfortable with cosmetic repairs and AC service."
   },
   {
     "id": "91cd2d52-0c56-4084-8124-271850793086",
@@ -1097,7 +1124,8 @@
     "selling_dealership": "Grain Belt Auto",
     "lot": "A-0028",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in rough condition with core mechanical systems operational, featuring a scratch on the rear bumper and a cracked rear taillight housing that will require repair. It is suitable for buyers comfortable with performing maintenance and repairs, and comes with a clean title."
   },
   {
     "id": "abf672d7-5178-4dd7-84a7-e86d616776ef",
@@ -1134,7 +1162,8 @@
     "selling_dealership": "Harbour City Auto",
     "lot": "A-0029",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle presents average wear consistent with its age and mileage, with some minor cosmetic imperfections visible throughout. The engine and mechanical systems are in sound working order, though the title is branded as rebuilt."
   },
   {
     "id": "fa9e3dfc-40f4-40dd-b890-7b5213369713",
@@ -1175,7 +1204,8 @@
     "selling_dealership": "Champlain Motors",
     "lot": "A-0030",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This salvage-title vehicle has significant structural and mechanical damage, including frame damage on the right front that has been previously repaired, flood damage affecting the electrical system, a dented tailgate, and a cracked rear taillight housing. The vehicle is not roadworthy in its current condition and is suitable only for experienced rebuilders."
   },
   {
     "id": "18dfa2fb-2d22-4580-96d5-5748a402b879",
@@ -1216,7 +1246,8 @@
     "selling_dealership": "Highway 7 Auto Sales",
     "lot": "A-0031",
     "current_bid": 14500,
-    "bid_count": 14
+    "bid_count": 14,
+    "condition_summary": "This vehicle is in rough condition with a 2.6/5 grade rating and shows multiple issues including a scratched liftgate, a chipped passenger-side windshield, worn brake rotors requiring replacement, and a small tear in the rear seat upholstery. The core mechanical systems are operational and the title is clean, making this suitable for buyers prepared to handle necessary repairs."
   },
   {
     "id": "6d1b93a8-47a6-4581-8e99-c3f54b20bc5e",
@@ -1257,7 +1288,8 @@
     "selling_dealership": "Capital City Auto",
     "lot": "A-0032",
     "current_bid": 7500,
-    "bid_count": 16
+    "bid_count": 16,
+    "condition_summary": "This vehicle shows significant cosmetic wear including a scratch along the driver-side fender and has an intermittent AC compressor that requires diagnosis. A mechanical inspection is recommended before purchase, though the title is clean and the vehicle is currently bid at $7,500.00."
   },
   {
     "id": "eb28fe31-646c-4aa7-9f60-654408232fb5",
@@ -1296,7 +1328,8 @@
     "selling_dealership": "Parkway Ford",
     "lot": "A-0033",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in reasonable condition with typical wear throughout and no major mechanical issues identified, though it would benefit from professional detailing. The only notable damage is a missing wheel center cap, and the title is clean."
   },
   {
     "id": "a4872199-050b-400c-8298-e0194969b3ba",
@@ -1336,7 +1369,8 @@
     "selling_dealership": "Maple Motors",
     "lot": "A-0034",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in reasonable condition with expected wear throughout and no major mechanical concerns, though it would benefit from professional detailing. Notable damage includes a cracked rear taillight housing, peeling paint on the roof rack, and a dent on the tailgate."
   },
   {
     "id": "b0ddeb15-baca-4e77-b936-5fb55e41cda3",
@@ -1373,7 +1407,8 @@
     "selling_dealership": "Metropolitain Auto",
     "lot": "A-0035",
     "current_bid": 18000,
-    "bid_count": 8
+    "bid_count": 8,
+    "condition_summary": "This vehicle is in reasonable condition with typical wear and tear throughout, though it would benefit from professional detailing to enhance its appearance. No major mechanical concerns or structural damage have been identified, and the title is clean."
   },
   {
     "id": "2d937ed0-b8f5-4513-bca9-b80fd75ede22",
@@ -1413,7 +1448,8 @@
     "selling_dealership": "Northland Chrysler",
     "lot": "A-0036",
     "current_bid": 12000,
-    "bid_count": 17
+    "bid_count": 17,
+    "condition_summary": "This vehicle is in below-average condition with visible wear including a minor scrape on the passenger-side mirror, a damaged rear left mud flap, and curb rash on the front-right wheel. The vehicle has a clean title and may require immediate maintenance to address these noted issues."
   },
   {
     "id": "1361d151-34c6-4ca0-bc0f-903a11e23a23",
@@ -1456,7 +1492,8 @@
     "selling_dealership": "Champlain Motors",
     "lot": "A-0037",
     "current_bid": 7500,
-    "bid_count": 5
+    "bid_count": 5,
+    "condition_summary": "This vehicle shows significant cosmetic wear including a missing wheel center cap, a dent on the tailgate, minor rust on the wheel wells, and a cracked rear taillight housing. A mechanical inspection is recommended before purchase to assess the vehicle's overall condition and identify any underlying issues."
   },
   {
     "id": "e2d7b07f-37e2-48cc-aa61-ffa34018b9af",
@@ -1497,7 +1534,8 @@
     "selling_dealership": "Stampede Auto Exchange",
     "lot": "A-0038",
     "current_bid": 7500,
-    "bid_count": 5
+    "bid_count": 5,
+    "condition_summary": "This vehicle has extensive flood damage with electrical issues and a check engine light related to the catalytic converter, requiring professional frame inspection due to salvage/rebuilt title status. Additional damage includes worn leather on the driver's seat bolster and curb rash on the front-right wheel."
   },
   {
     "id": "31b7298a-557c-4cdb-969b-7e835d7d066b",
@@ -1538,7 +1576,8 @@
     "selling_dealership": "Rive-Sud Motors",
     "lot": "A-0039",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows significant cosmetic and mechanical wear, including minor rust on the wheel wells, a scratch on the rear bumper, a missing wheel center cap, and a cracked rear taillight housing. The brake rotors are worn and due for replacement, making a pre-purchase mechanical inspection strongly recommended before bidding."
   },
   {
     "id": "b25d0c2a-5f56-4e00-9f61-3c5b18edf7ef",
@@ -1575,7 +1614,8 @@
     "selling_dealership": "Harbourfront Motors",
     "lot": "A-0040",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in average condition with visible wear on frequently touched surfaces, though the engine and transmission operate normally. No structural or mechanical damage has been noted, and the title is clean."
   },
   {
     "id": "041b2f83-f77f-4ebd-8539-18aab4fc7647",
@@ -1616,7 +1656,8 @@
     "selling_dealership": "Durham Auto Exchange",
     "lot": "A-0041",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows moderate wear consistent with previous daily use and runs and drives without issue, though it has a small dent on the driver-side door, a missing wheel center cap, and a minor scrape on the passenger-side mirror. Cosmetic touch-ups are recommended, but the vehicle is mechanically sound with clean title."
   },
   {
     "id": "5b7bba8e-8e5d-4579-a408-1301e8fca316",
@@ -1653,7 +1694,8 @@
     "selling_dealership": "AutoPark Toronto",
     "lot": "A-0042",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in above-average condition with all mechanical systems functioning properly and recently serviced new tires. No damage has been noted, and it comes with a clean title."
   },
   {
     "id": "a83d8694-96e4-4ee0-91f0-b22443a3fa92",
@@ -1692,7 +1734,8 @@
     "selling_dealership": "Maple Motors",
     "lot": "A-0043",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle displays significant cosmetic wear and requires a mechanical inspection before purchase, with specific damage including curb rash on the front-right wheel and a minor scrape on the passenger-side mirror. Despite its 2.1/5 condition grade, the vehicle carries a clean title and is offered with a $5,000 starting bid."
   },
   {
     "id": "c35ce472-2d9d-4d87-a03c-56abbe63b720",
@@ -1730,7 +1773,8 @@
     "selling_dealership": "Durham Auto Exchange",
     "lot": "A-0044",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in average condition with visible wear on frequently touched surfaces, though the engine and transmission operate normally. No structural or mechanical damage has been noted, and the title is clean."
   },
   {
     "id": "f8c0d9bb-8222-4446-93c1-43bcd61175e8",
@@ -1767,7 +1811,8 @@
     "selling_dealership": "Foothills Auto Sales",
     "lot": "A-0045",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in exceptional condition with no damage noted, having been garage kept by a single previous owner with no reported mechanical issues. The vehicle has a clean title and is ready for immediate use."
   },
   {
     "id": "426a36b7-ab4e-4558-94d9-c48476925c8f",
@@ -1805,7 +1850,8 @@
     "selling_dealership": "Maple Motors",
     "lot": "A-0046",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in above-average condition with all mechanical systems functioning properly and recent service work including new tires. The only notable issue is a small tear in the rear seat upholstery, while the title is clean and the vehicle is otherwise well-maintained."
   },
   {
     "id": "2827dcd5-9cf1-483a-a53d-30c39ac750da",
@@ -1842,7 +1888,8 @@
     "selling_dealership": "Rive-Sud Motors",
     "lot": "A-0047",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in above-average condition with all mechanical systems functioning properly and recently serviced new tires installed. No damage has been noted, and it comes with a clean title."
   },
   {
     "id": "845c3157-0810-4bd4-9abd-37c39bb34123",
@@ -1877,7 +1924,8 @@
     "selling_dealership": "Golden Horseshoe Motors",
     "lot": "A-0048",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in excellent overall condition with a clean interior showing minimal wear and a well-maintained exterior appropriate for its age. No significant damage has been noted, making it a solid choice for buyers seeking a quality vehicle."
   },
   {
     "id": "5401d32e-e90a-4e09-b0fd-544d009eb9fd",
@@ -1915,7 +1963,8 @@
     "selling_dealership": "Stampede Auto Exchange",
     "lot": "A-0049",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This very clean vehicle shows only minor cosmetic wear throughout the interior and exterior, with all electronics and features in full working order. The only notable damage is a chip in the passenger side windshield."
   },
   {
     "id": "0afe1c4d-4ce1-423f-8976-5b8078d4bb45",
@@ -1958,7 +2007,8 @@
     "selling_dealership": "St-Laurent Auto Exchange",
     "lot": "A-0050",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This salvage-title vehicle requires significant mechanical and cosmetic repairs, including worn brake rotors needing replacement, prior frame damage on the right front, a small tear in the rear seat upholstery, and a dent on the driver-side door. The vehicle is not currently roadworthy and is suitable only for experienced rebuilders."
   },
   {
     "id": "330014a7-c6dc-40ac-b52d-3f83c7d4339d",
@@ -1998,7 +2048,8 @@
     "selling_dealership": "Northland Chrysler",
     "lot": "B-0001",
     "current_bid": 6500,
-    "bid_count": 6
+    "bid_count": 6,
+    "condition_summary": "This vehicle is in rough condition with operational core mechanical systems, but features faded headlight lenses and a missing wheel center cap that will require attention. The clean title and current bid of $6,500 make it suitable for buyers prepared to handle cosmetic repairs and restoration work."
   },
   {
     "id": "5f275cda-08fc-4c21-874e-18c0425c976c",
@@ -2038,7 +2089,8 @@
     "selling_dealership": "Harbour City Auto",
     "lot": "B-0002",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in below-average condition with a dent on the tailgate, minor rust on the wheel wells, and light hail damage across the roof. The vehicle has a clean title and may require immediate maintenance to address these noted issues."
   },
   {
     "id": "02fcc151-d1a2-4d55-b205-109f69028741",
@@ -2080,7 +2132,8 @@
     "selling_dealership": "Durham Auto Exchange",
     "lot": "B-0003",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in rough condition with a 2.5/5 grade rating and shows multiple signs of wear including scuff marks on door sill plates, a cracked front grille, a small dent on the driver-side door, a windshield chip on the passenger side, and worn leather on the driver seat bolster. The core mechanical systems are operational, making it suitable for buyers comfortable with cosmetic and minor repairs."
   },
   {
     "id": "30541fbc-0752-4865-abb5-99d242a0cd85",
@@ -2118,7 +2171,8 @@
     "selling_dealership": "Chinook Auto Group",
     "lot": "B-0004",
     "current_bid": 14000,
-    "bid_count": 18
+    "bid_count": 18,
+    "condition_summary": "This vehicle is mechanically sound with average wear for its age and mileage, but has a rebuilt title and shows light hail damage on the roof along with a scratch on the liftgate. Despite these cosmetic imperfections, it remains in fair overall condition at a 3.3/5 grade rating."
   },
   {
     "id": "8c0d975e-62a8-481c-a0c2-37c312705c65",
@@ -2159,7 +2213,8 @@
     "selling_dealership": "Northern Ridge Motors",
     "lot": "B-0005",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle has a rebuilt/salvage title and shows extensive incident damage requiring professional frame inspection, along with worn brake rotors needing replacement, a dented tailgate, a small tear in the rear seat upholstery, and faded headlight lenses. Given the significant structural concerns and cosmetic wear, this vehicle is suitable only for buyers with mechanical expertise or those planning major restoration work."
   },
   {
     "id": "35129fef-d80e-44c0-a11d-a82ebb61f293",
@@ -2195,7 +2250,8 @@
     "selling_dealership": "Maple Motors",
     "lot": "B-0006",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in reasonable condition with typical wear consistent with its age and mileage, and would benefit from professional detailing to restore its appearance. No major mechanical concerns or structural damage have been identified, and the title is clean."
   },
   {
     "id": "f6ee850f-d655-4d7d-b171-be16b528d5a9",
@@ -2236,7 +2292,8 @@
     "selling_dealership": "Highway 7 Auto Sales",
     "lot": "B-0007",
     "current_bid": 13500,
-    "bid_count": 9
+    "bid_count": 9,
+    "condition_summary": "This vehicle shows heavy wear with multiple cosmetic issues including rock chips on the hood, minor rust on the wheel wells, scratches on the front bumper, and a damaged rear left mud flap. The interior has a small tear in the rear seat upholstery, and the vehicle is priced to reflect the recommended repairs needed."
   },
   {
     "id": "f2e39568-53d8-494c-ae23-b9182658baab",
@@ -2274,7 +2331,8 @@
     "selling_dealership": "Lakeshore Auto Group",
     "lot": "B-0008",
     "current_bid": 32000,
-    "bid_count": 7
+    "bid_count": 7,
+    "condition_summary": "This vehicle is in excellent condition with a clean interior showing minimal wear and an exterior that displays only minor imperfections consistent with age. No damage has been noted on this well-maintained vehicle."
   },
   {
     "id": "d36b5211-c003-41c9-87d4-9179a5b2ecf2",
@@ -2311,7 +2369,8 @@
     "selling_dealership": "Capital City Auto",
     "lot": "B-0009",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in average condition with visible wear on frequently touched surfaces, though the engine and transmission operate normally. No structural or mechanical damage has been noted, and the title is clean."
   },
   {
     "id": "87f7343a-cb17-425c-8f41-0c63223bef5c",
@@ -2346,7 +2405,8 @@
     "selling_dealership": "Highway 7 Auto Sales",
     "lot": "B-0010",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is mechanically sound with a clean title and shows average wear consistent with its age and mileage, though it displays some cosmetic imperfections. No structural or mechanical damage has been noted."
   },
   {
     "id": "fbc1bbdf-9bb6-4279-9c69-029968bcaefb",
@@ -2384,7 +2444,8 @@
     "selling_dealership": "King City Auto",
     "lot": "B-0011",
     "current_bid": 31000,
-    "bid_count": 12
+    "bid_count": 12,
+    "condition_summary": "This vehicle is in exceptional condition with a clean title, single previous owner history, and garage storage throughout its life with no mechanical issues reported. No damage has been noted on this well-maintained automobile."
   },
   {
     "id": "32158e11-4df3-4252-ad4d-cd8c974c6303",
@@ -2419,7 +2480,8 @@
     "selling_dealership": "Metropolitain Auto",
     "lot": "B-0012",
     "current_bid": 23500,
-    "bid_count": 6
+    "bid_count": 6,
+    "condition_summary": "This vehicle is in above-average condition with all mechanical systems functioning properly and recently serviced with new tires. No damage has been noted, and it comes with a clean title."
   },
   {
     "id": "e398d584-b10e-489c-a488-142178bb05a6",
@@ -2456,7 +2518,8 @@
     "selling_dealership": "Chinook Auto Group",
     "lot": "B-0013",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This well-maintained vehicle shows no noted damage, with very good paint condition and a light-use interior consistent with its mileage, backed by full service history. The vehicle features a clean title and is offered starting at $25,500.00."
   },
   {
     "id": "fd1279c4-5cbb-4b4e-b908-9873d2fe9607",
@@ -2497,7 +2560,8 @@
     "selling_dealership": "AutoPark Toronto",
     "lot": "B-0014",
     "current_bid": 14000,
-    "bid_count": 15
+    "bid_count": 15,
+    "condition_summary": "This vehicle is mechanically sound with average wear for its age and mileage, though it displays a scratch along the driver-side fender and minor rust on the wheel wells. The clean title and current bid of $14,000.00 reflect its 3.8/5 condition grade and overall drivable state despite these cosmetic imperfections."
   },
   {
     "id": "e3068dd8-0fed-440b-8c7d-70e7912bc0e8",
@@ -2536,7 +2600,8 @@
     "selling_dealership": "Highway 7 Auto Sales",
     "lot": "B-0015",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This salvage-titled vehicle has sustained extensive flood damage with resulting electrical issues and an intermittent AC compressor that requires professional diagnosis. The frame integrity is questionable and should be professionally assessed, and there is a chip in the passenger-side windshield."
   },
   {
     "id": "2f99ad9e-1bdf-4869-8e8e-395b8d66b406",
@@ -2576,7 +2641,8 @@
     "selling_dealership": "Mountain View Motors",
     "lot": "B-0016",
     "current_bid": 11000,
-    "bid_count": 18
+    "bid_count": 18,
+    "condition_summary": "This vehicle is in rough overall condition with a cracked rear taillight housing and a missing wheel center cap, though the core mechanical systems are operational. It is suitable for buyers prepared to handle repairs and cosmetic work."
   },
   {
     "id": "24b86ff2-dad1-40d9-af6b-b08c92b0b996",
@@ -2617,7 +2683,8 @@
     "selling_dealership": "Grain Belt Auto",
     "lot": "B-0017",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in rough condition with a clean title and operational core mechanical systems, though it shows cosmetic damage including a scratch on the rear bumper and along the driver-side fender. It is suitable for buyers comfortable with repairs and is currently starting at $8,500.00."
   },
   {
     "id": "4aaba9e2-6884-4672-a0f5-be08df00d666",
@@ -2655,7 +2722,8 @@
     "selling_dealership": "Laurentian Auto Group",
     "lot": "B-0018",
     "current_bid": 37500,
-    "bid_count": 8
+    "bid_count": 8,
+    "condition_summary": "This well-maintained vehicle with full service history shows very good paint condition and a lightly-used interior consistent with its mileage. No damage has been noted, and the vehicle comes with a clean title."
   },
   {
     "id": "7ac5e28a-8bf8-4063-883c-905cde04508c",
@@ -2698,7 +2766,8 @@
     "selling_dealership": "Mountain View Motors",
     "lot": "B-0019",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows heavy wear with a 2.3/5 condition rating and requires several repairs including AC compressor diagnosis, windshield chip repair, and paint touch-up on the hood from rock chips. Additional cosmetic damage includes a driver-side fender scratch and a small tear in the rear seat upholstery, with pricing adjusted accordingly for the needed work."
   },
   {
     "id": "5533456e-2b71-445f-a910-f35342c7a2d4",
@@ -2737,7 +2806,8 @@
     "selling_dealership": "Maple Motors",
     "lot": "B-0020",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in fair overall condition with a clean title and drives well, though the interior shows typical wear. The exterior has faded headlight lenses, curb rash on the front-right wheel, and a missing wheel center cap."
   },
   {
     "id": "0f7fac8d-fdb9-40eb-a9d0-15cbfa942adc",
@@ -2777,7 +2847,8 @@
     "selling_dealership": "Northland Chrysler",
     "lot": "B-0021",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in exceptional condition with a clean title, single previous owner history, and no reported mechanical issues from being garage kept. The only notable damage is a minor scratch on the rear bumper from parking."
   },
   {
     "id": "ac60d7c8-27f7-46a6-a24e-52cbda3938e8",
@@ -2815,7 +2886,8 @@
     "selling_dealership": "Chinook Auto Group",
     "lot": "B-0022",
     "current_bid": 12500,
-    "bid_count": 10
+    "bid_count": 10,
+    "condition_summary": "This vehicle is in average condition with visible wear on high-touch surfaces, though the engine and transmission operate normally. No structural or mechanical damage has been noted, and it carries a clean title."
   },
   {
     "id": "5fb2eb3d-4f72-49de-8e1a-2eaa5dd2b7fc",
@@ -2852,7 +2924,8 @@
     "selling_dealership": "AutoPark Toronto",
     "lot": "B-0023",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is mechanically sound with average wear consistent with its age and mileage, though it displays some cosmetic imperfections throughout. The primary damage noted is a small tear in the rear seat upholstery, with a clean title and starting bid of $18,000.00."
   },
   {
     "id": "c01f21a9-1adb-43d2-9dd4-ddd328d38fda",
@@ -2890,7 +2963,8 @@
     "selling_dealership": "Harbour City Auto",
     "lot": "B-0024",
     "current_bid": 24000,
-    "bid_count": 3
+    "bid_count": 3,
+    "condition_summary": "This vehicle is in fair overall condition with a clean title and drives well, though the interior shows some wear including a small tear in the rear seat upholstery. The exterior has minor blemishes consistent with its 3.4/5 condition grade."
   },
   {
     "id": "ba5b49ae-212a-48dc-908c-c02d33a82360",
@@ -2930,7 +3004,8 @@
     "selling_dealership": "Foothills Auto Sales",
     "lot": "B-0025",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows moderate wear consistent with previous daily use and runs and drives without issue, though it has a scratch along the driver-side fender, a scratch on the rear bumper from parking, and a minor scrape on the passenger-side mirror that would benefit from cosmetic touch-ups. The title is clean and the vehicle is offered with a starting bid of $26,000.00."
   },
   {
     "id": "f6a1fe2c-c11e-4046-987c-564855e7ea68",
@@ -2966,7 +3041,8 @@
     "selling_dealership": "Maple Motors",
     "lot": "B-0026",
     "current_bid": 29000,
-    "bid_count": 4
+    "bid_count": 4,
+    "condition_summary": "This vehicle is in excellent condition with a clean interior showing minimal wear and an exterior that displays only minor imperfections consistent with its age. No damage has been noted, and the vehicle comes with a clean title."
   },
   {
     "id": "62a63e05-93a8-432b-8ad4-06589bd51da5",
@@ -3005,7 +3081,8 @@
     "selling_dealership": "Metropolitain Auto",
     "lot": "B-0027",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in below-average condition with a dent on the rear quarter panel, worn leather on the driver seat bolster, and an active check engine light indicating a catalytic converter issue. The vehicle has a clean title and may require immediate maintenance to address the engine code before reliable operation."
   },
   {
     "id": "f8224c61-c93e-425b-b1c4-b581172b158c",
@@ -3045,7 +3122,8 @@
     "selling_dealership": "Capital City Auto",
     "lot": "B-0028",
     "current_bid": 11000,
-    "bid_count": 18
+    "bid_count": 18,
+    "condition_summary": "This vehicle is in rough condition with light hail damage across the roof, an intermittent AC compressor requiring diagnosis, and a scratch on the rear bumper from a parking incident. The core mechanical systems are operational, making it suitable for buyers comfortable with repairs."
   },
   {
     "id": "126354f5-84f1-4a83-bcec-a08c2b354b4a",
@@ -3086,7 +3164,8 @@
     "selling_dealership": "King City Auto",
     "lot": "B-0029",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows significant cosmetic wear including a damaged rear left mud flap, scratches on the rear bumper, faded headlight lenses, light hail damage on the roof, and a passenger-side windshield chip. A mechanical inspection is recommended before purchase to assess any underlying issues beyond the visible damage."
   },
   {
     "id": "5d6572c9-e1aa-4b02-8c6b-e312757d2624",
@@ -3125,7 +3204,8 @@
     "selling_dealership": "Champlain Motors",
     "lot": "B-0030",
     "current_bid": 19000,
-    "bid_count": 11
+    "bid_count": 11,
+    "condition_summary": "This vehicle is mechanically sound with average wear consistent with its age and mileage, though it displays some cosmetic imperfections including a cracked front grille. The clean title and current bid of $19,000.00 reflect its overall average condition rating of 3 out of 5 stars."
   },
   {
     "id": "c282aa0f-c138-4ee6-9cad-5ce5187d37d7",
@@ -3168,7 +3248,8 @@
     "selling_dealership": "Parkway Ford",
     "lot": "B-0031",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle has a rebuilt title and shows rough overall condition with a cracked rear taillight housing, a dent on the rear quarter panel, light hail damage on the roof, and worn brake rotors requiring replacement. The core mechanical systems are operational, making it suitable for buyers prepared to handle these repairs."
   },
   {
     "id": "21960a78-393a-4207-b23b-1fa4ae6e37ea",
@@ -3205,7 +3286,8 @@
     "selling_dealership": "Champlain Motors",
     "lot": "B-0032",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in average condition with visible wear on frequently touched surfaces, though the engine and transmission operate normally. No structural or mechanical damage has been noted, and the title is clean."
   },
   {
     "id": "5675434b-47b8-4c36-902d-b9d3a8c8bacb",
@@ -3244,7 +3326,8 @@
     "selling_dealership": "St-Laurent Auto Exchange",
     "lot": "B-0033",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle has a clean title but shows significant wear with multiple issues including a chipped windshield on the passenger side, a cracked front grille, and an intermittent AC compressor that requires diagnosis. A mechanical inspection is strongly recommended before purchase given the overall condition grade of 2/5."
   },
   {
     "id": "44a3db7b-7ebb-4a42-b0a8-92996fb3ec42",
@@ -3281,7 +3364,8 @@
     "selling_dealership": "Harbourfront Motors",
     "lot": "B-0034",
     "current_bid": 31000,
-    "bid_count": 16
+    "bid_count": 16,
+    "condition_summary": "This vehicle is in excellent overall condition with a clean interior showing minimal wear and a well-maintained exterior appropriate for its age. No damage has been noted, making it a solid acquisition at the current bid level."
   },
   {
     "id": "245c51ef-1e4d-46f7-9617-0eaeacc83c54",
@@ -3324,7 +3408,8 @@
     "selling_dealership": "Highway 7 Auto Sales",
     "lot": "B-0035",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in below-average condition with a cracked front grille, faded headlight lenses, light hail damage on the roof, and a small dent on the driver-side door. The car has a clean title and may require immediate maintenance to address these visible issues before regular use."
   },
   {
     "id": "2ad9266a-0a7b-4717-a19b-e13fed157927",
@@ -3363,7 +3448,8 @@
     "selling_dealership": "St-Laurent Auto Exchange",
     "lot": "B-0036",
     "current_bid": 29000,
-    "bid_count": 12
+    "bid_count": 12,
+    "condition_summary": "This vehicle is in rough condition with peeling paint on the roof rack and worn leather on the driver's seat bolster, though the core mechanical systems remain operational. It is suitable for buyers prepared to handle cosmetic repairs and is offered with a clean title."
   },
   {
     "id": "8bf6ff33-eb45-4fbc-b37e-d2fe3ed13dd1",
@@ -3401,7 +3487,8 @@
     "selling_dealership": "Mountain View Motors",
     "lot": "B-0037",
     "current_bid": 30000,
-    "bid_count": 6
+    "bid_count": 6,
+    "condition_summary": "This salvage-title vehicle has substantial damage including a previously deployed airbag that has been replaced with OEM parts, and peeling paint on the roof rack. It is sold as-is and is only recommended for parts or significant rebuild purposes."
   },
   {
     "id": "c4491bcf-a310-4f36-b89a-015a32ce7f1d",
@@ -3436,7 +3523,8 @@
     "selling_dealership": "Metropolitain Auto",
     "lot": "B-0038",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in reasonable condition with typical wear throughout and would benefit from professional detailing. No major mechanical issues or damage have been identified, and the title is clean."
   },
   {
     "id": "56708c56-eb20-4c5f-af2c-ae3f9c3ad8ca",
@@ -3480,7 +3568,8 @@
     "selling_dealership": "Capital City Auto",
     "lot": "B-0039",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in rough condition with a rebuilt title and requires significant cosmetic repairs, including dents on the tailgate and rear quarter panel, faded headlight lenses, curb rash on the front-right wheel, and a missing wheel center cap. The core mechanical systems are operational, making it suitable for buyers comfortable undertaking restoration work."
   },
   {
     "id": "d5eb3d31-91f3-4919-bdcb-227826787250",
@@ -3516,7 +3605,8 @@
     "selling_dealership": "Northern Ridge Motors",
     "lot": "B-0040",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle displays typical wear consistent with its age and mileage, with minor cosmetic imperfections throughout but no structural or mechanical damage noted. The car is mechanically sound with a clean title and is ready for immediate use."
   },
   {
     "id": "82f0a77b-0191-47b9-b21d-7186c912b44c",
@@ -3554,7 +3644,8 @@
     "selling_dealership": "Grand Touring Motors",
     "lot": "B-0041",
     "current_bid": 24000,
-    "bid_count": 15
+    "bid_count": 15,
+    "condition_summary": "This vehicle shows moderate wear consistent with previous daily use and runs and drives without issue, though it has minor rust on the wheel wells and a dent on the rear quarter panel that would benefit from cosmetic repair. With a clean title and current bid at $24,000, it represents a functional vehicle suitable for buyers willing to address minor cosmetic issues."
   },
   {
     "id": "bfb04c5e-e23f-4426-b02a-3ce67c694590",
@@ -3597,7 +3688,8 @@
     "selling_dealership": "Atlantic Auto Exchange",
     "lot": "B-0042",
     "current_bid": 9500,
-    "bid_count": 16
+    "bid_count": 16,
+    "condition_summary": "This vehicle shows significant cosmetic and mechanical wear, including light hail damage on the roof, minor scratches on the front bumper, a scrape on the passenger-side mirror, and worn leather on the driver's seat bolster. The brakes require attention with worn rotors due for replacement, and a pre-purchase mechanical inspection is recommended before bidding."
   },
   {
     "id": "37a60b36-82bd-4ed9-b361-78a1d06c7d36",
@@ -3641,7 +3733,8 @@
     "selling_dealership": "St-Laurent Auto Exchange",
     "lot": "B-0043",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This salvage-title vehicle requires significant work and is not currently roadworthy, featuring frame damage to the right front (previously repaired), worn brake rotors needing replacement, and structural damage including a dented rear quarter panel. Additional cosmetic issues include a scratched rear bumper, damaged rear left mud flap, and the vehicle is only suitable for experienced rebuilders."
   },
   {
     "id": "994ee446-ca13-4aec-9a21-797307742f2c",
@@ -3681,7 +3774,8 @@
     "selling_dealership": "Capital City Auto",
     "lot": "B-0044",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows below-average condition with a cracked front grille, a scratch on the liftgate, and an illuminated check engine light indicating a catalytic converter code that requires diagnosis. The AC compressor operates intermittently and will need professional evaluation and likely repair before reliable operation."
   },
   {
     "id": "a2a483de-eb38-496f-b3ec-f3bf9270b03f",
@@ -3716,7 +3810,8 @@
     "selling_dealership": "Rive-Sud Motors",
     "lot": "B-0045",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in above-average condition with all mechanical systems functioning properly and recently serviced new tires installed. No damage has been noted, and it comes with a clean title."
   },
   {
     "id": "283bcc43-ba86-4f2e-8b35-eb95e2c137f2",
@@ -3754,7 +3849,8 @@
     "selling_dealership": "Fraser Valley Auto Group",
     "lot": "B-0046",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in average condition with visible wear on frequently touched surfaces, though the engine and transmission operate normally. No structural or mechanical damage has been noted, and the title is clean."
   },
   {
     "id": "9f1bfd72-71f3-4857-9e2c-9b9fe4ccdbd9",
@@ -3794,7 +3890,8 @@
     "selling_dealership": "Champlain Motors",
     "lot": "B-0047",
     "current_bid": 10500,
-    "bid_count": 7
+    "bid_count": 7,
+    "condition_summary": "This vehicle is in rough overall condition with a damaged rear left mud flap, a small dent on the driver-side door, and a scratch on the liftgate, though the core mechanical systems remain operational. It is suitable for buyers prepared to handle repairs and cosmetic work."
   },
   {
     "id": "9f33bda8-c648-4384-8771-462d94d3b649",
@@ -3835,7 +3932,8 @@
     "selling_dealership": "Stampede Auto Exchange",
     "lot": "B-0048",
     "current_bid": 23000,
-    "bid_count": 5
+    "bid_count": 5,
+    "condition_summary": "This vehicle shows moderate wear consistent with previous daily use and runs reliably, though it has a dent on the rear quarter panel, minor rust on the wheel wells, and scuff marks on the door sill plates that would benefit from cosmetic attention. The clean title and current bid of $23,000 reflect a vehicle in fair condition suitable for buyers seeking affordable transportation with minor cosmetic repairs needed."
   },
   {
     "id": "c4338fb0-b5a0-43aa-9eee-3be722a8aed4",
@@ -3879,7 +3977,8 @@
     "selling_dealership": "Northland Chrysler",
     "lot": "B-0049",
     "current_bid": 3500,
-    "bid_count": 14
+    "bid_count": 14,
+    "condition_summary": "This vehicle is in below-average condition with multiple exterior issues including a dent on the tailgate, a small dent on the driver-side door, a scratch along the driver-side fender, and peeling paint on the roof rack. The engine check light is illuminated with a catalytic converter code, indicating the vehicle requires immediate mechanical attention before reliable operation."
   },
   {
     "id": "43a5a06c-ea82-408c-8799-b6754f8b6bdc",
@@ -3921,7 +4020,8 @@
     "selling_dealership": "Stampede Auto Exchange",
     "lot": "B-0050",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle displays significant cosmetic wear including a cracked rear taillight housing, faded headlight lenses, and minor scratches on the front bumper. A mechanical inspection is recommended before purchase to assess the vehicle's overall condition beyond the visible exterior damage."
   },
   {
     "id": "a001c6a5-a43d-4e34-a2e9-ca7b63a97a77",
@@ -3961,7 +4061,8 @@
     "selling_dealership": "Durham Auto Exchange",
     "lot": "C-0001",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in fair overall condition with a clean title and drives well, though the interior shows some wear including a small tear in the rear seat upholstery. The exterior has minor blemishes and a chip in the passenger-side windshield, but no major structural damage."
   },
   {
     "id": "34d67e45-eaf1-4470-8572-4617d9b5ee98",
@@ -4006,7 +4107,8 @@
     "selling_dealership": "Golden Horseshoe Motors",
     "lot": "C-0002",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle has extensive damage including frame damage on the right front that has been repaired, flood damage with electrical issues, and water damage to the rear cargo area carpet. Additional issues include minor scratches on the front bumper, rust on the wheel wells, and a scrape on the passenger-side mirror, with a salvage title requiring professional frame assessment before purchase."
   },
   {
     "id": "89365990-e2fd-43da-a5b3-0bb158fd2535",
@@ -4048,7 +4150,8 @@
     "selling_dealership": "Chinook Auto Group",
     "lot": "C-0003",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in rough condition with a check engine light related to the catalytic converter, a small dent on the driver-side door, missing wheel center cap, cracked front grille, and curb rash on the front-right wheel. Core mechanical systems are operational, making it suitable for buyers comfortable with repairs and maintenance work."
   },
   {
     "id": "a6bf9a0b-05dd-4112-bedc-6b651acc9748",
@@ -4087,7 +4190,8 @@
     "selling_dealership": "Maple Motors",
     "lot": "C-0004",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows significant cosmetic wear with a damaged rear left mud flap and minor scratches on the front bumper. A mechanical inspection is recommended before purchase, though the title is clean and the starting bid is $8,000."
   },
   {
     "id": "37a5454a-8029-44cd-8315-5d8d0d2e13e9",
@@ -4122,7 +4226,8 @@
     "selling_dealership": "Harbour City Auto",
     "lot": "C-0005",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in excellent condition with a clean interior and exterior showing only minor cosmetic wear consistent with normal use. All electronics and features are fully functional with no structural damage noted."
   },
   {
     "id": "18c8ded5-29d2-497a-b4a0-f410b9fd4ec0",
@@ -4160,7 +4265,8 @@
     "selling_dealership": "Westcoast Auto Sales",
     "lot": "C-0006",
     "current_bid": 18500,
-    "bid_count": 4
+    "bid_count": 4,
+    "condition_summary": "This vehicle is mechanically sound with average wear appropriate for its age and mileage, though it has a cracked front grille and faded headlight lenses that are cosmetic issues. The clean title and current bid of $18,500.00 reflect its overall 3.7/5 condition grade."
   },
   {
     "id": "a4fb42cd-6c70-4c1f-8f1a-5d85469aa2d7",
@@ -4201,7 +4307,8 @@
     "selling_dealership": "Harbourfront Motors",
     "lot": "C-0007",
     "current_bid": 77000,
-    "bid_count": 14
+    "bid_count": 14,
+    "condition_summary": "This vehicle is in average condition with a clean title and functioning engine and transmission, though it shows visible wear on frequently touched surfaces. Notable damage includes rock chip paint touch-ups on the hood, a damaged rear left mud flap, and a passenger-side windshield chip."
   },
   {
     "id": "57d81073-1244-415d-bd62-da82d033980b",
@@ -4243,7 +4350,8 @@
     "selling_dealership": "Capital City Auto",
     "lot": "C-0008",
     "current_bid": 45500,
-    "bid_count": 7
+    "bid_count": 7,
+    "condition_summary": "This vehicle is in rough condition with several issues requiring attention: minor rust on the wheel wells, a scratch on the rear bumper, a dent on the rear quarter panel, worn brake rotors needing replacement, and an active check engine light related to the catalytic converter. Despite these cosmetic and mechanical concerns, the core systems are operational and the vehicle is suitable for buyers comfortable undertaking repairs."
   },
   {
     "id": "ff3dcdc5-c992-4a7b-ad28-d6f15f842625",
@@ -4281,7 +4389,8 @@
     "selling_dealership": "Capital City Auto",
     "lot": "C-0009",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is mechanically sound with average wear consistent with its age and mileage, though it displays some cosmetic imperfections throughout. The primary damage is a scratch on the rear bumper from a parking incident, with a clean title and starting bid of $16,000.00."
   },
   {
     "id": "bd1035eb-00ac-4797-9ca9-40a785457d0e",
@@ -4320,7 +4429,8 @@
     "selling_dealership": "Maple Motors",
     "lot": "C-0010",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This very clean vehicle shows excellent condition inside and out with all electronics and features fully functional, though there is a minor scratch along the driver-side fender. The vehicle has a clean title and is ready for immediate use with only cosmetic wear present."
   },
   {
     "id": "0941fb81-edcb-4cf4-bcae-6a2141847417",
@@ -4362,7 +4472,8 @@
     "selling_dealership": "Harbour City Auto",
     "lot": "C-0011",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows heavy wear with a faded headlight lenses, a cracked front grille, and a damaged rear left mud flap that will require repair. The clean title and $7,000 starting bid reflect the vehicle's condition and the work needed to bring it to full functionality."
   },
   {
     "id": "ec259597-3a1a-426b-9032-b503f8ffec81",
@@ -4400,7 +4511,8 @@
     "selling_dealership": "AutoPark Toronto",
     "lot": "C-0012",
     "current_bid": 9000,
-    "bid_count": 13
+    "bid_count": 13,
+    "condition_summary": "This vehicle has a transmission that slips between 2nd and 3rd gear and a small tear in the rear seat upholstery, making it suitable primarily for parts or a significant rebuild project. It is being sold as-is with a clean title and is not recommended for regular road use in its current condition."
   },
   {
     "id": "da6394b2-87c3-4418-b29a-9d1a36bc0a0a",
@@ -4445,7 +4557,8 @@
     "selling_dealership": "Laurentian Auto Group",
     "lot": "C-0013",
     "current_bid": 9000,
-    "bid_count": 11
+    "bid_count": 11,
+    "condition_summary": "This salvage-title vehicle has sustained significant flood damage with ongoing electrical issues, frame damage to the right front that has been repaired, and a replaced airbag system. Additional defects include a missing wheel center cap, paint peeling on the roof rack, and a minor scrape on the passenger-side mirror, making it suitable only for parts or extensive rebuild work."
   },
   {
     "id": "f3e420ae-7673-4040-b4ef-2dbd76771e85",
@@ -4480,7 +4593,8 @@
     "selling_dealership": "Northern Ridge Motors",
     "lot": "C-0014",
     "current_bid": 25000,
-    "bid_count": 17
+    "bid_count": 17,
+    "condition_summary": "This vehicle is in reasonable condition with typical wear throughout and would benefit from professional detailing to enhance its appearance. No major mechanical concerns or damage have been identified, and it comes with a clean title."
   },
   {
     "id": "3ee250bd-3664-47f6-b67d-8edcdead179e",
@@ -4518,7 +4632,8 @@
     "selling_dealership": "Metropolitain Auto",
     "lot": "C-0015",
     "current_bid": 41500,
-    "bid_count": 16
+    "bid_count": 16,
+    "condition_summary": "This vehicle is in exceptional condition with no damage noted, having been garage-kept by a single previous owner with no reported mechanical issues. The clean title and strong bidding activity reflect its well-maintained status."
   },
   {
     "id": "d0a7a1f6-5b75-4230-a2bd-551e73ef2960",
@@ -4556,7 +4671,8 @@
     "selling_dealership": "Golden Horseshoe Motors",
     "lot": "C-0016",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows moderate wear consistent with previous daily use and runs and drives without issue, though it has a dent on the tailgate and a minor scrape on the passenger-side mirror that would benefit from cosmetic repair. The clean title and solid mechanical condition make it a viable option for buyers willing to address minor cosmetic touch-ups."
   },
   {
     "id": "373a8434-183d-4373-8ccc-285e6d4f07ea",
@@ -4600,7 +4716,8 @@
     "selling_dealership": "Northland Chrysler",
     "lot": "C-0017",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows heavy wear with multiple cosmetic issues including scuff marks on door sill plates, peeling paint on the roof rack, a small dent on the driver-side door, paint chips on the hood, and a minor scrape on the passenger-side mirror. The rebuilt title and overall condition reflect significant use, with the pricing set accordingly to account for the needed repairs and cosmetic work."
   },
   {
     "id": "2caa31a5-7fac-456b-940e-27a6203363c5",
@@ -4640,7 +4757,8 @@
     "selling_dealership": "Metropolitain Auto",
     "lot": "C-0018",
     "current_bid": 12500,
-    "bid_count": 5
+    "bid_count": 5,
+    "condition_summary": "This vehicle is in rough condition with several visible issues including a damaged rear left mud flap, a small dent on the driver-side door, and peeling paint on the roof rack, though the core mechanical systems remain operational. It is suitable for buyers comfortable with making repairs and cosmetic improvements."
   },
   {
     "id": "7b2c2fbe-ea78-4cb7-9088-0382b3ec6306",
@@ -4677,7 +4795,8 @@
     "selling_dealership": "King City Auto",
     "lot": "C-0019",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in average condition with visible wear on frequently touched surfaces, though the engine and transmission operate normally. No structural or mechanical damage has been noted, and the title is clean."
   },
   {
     "id": "937cbe50-9dba-4597-90b6-b1ec429f3421",
@@ -4712,7 +4831,8 @@
     "selling_dealership": "Laurentian Auto Group",
     "lot": "C-0020",
     "current_bid": 29000,
-    "bid_count": 12
+    "bid_count": 12,
+    "condition_summary": "This vehicle is in exceptional condition with no damage noted, having been garage-kept by a single previous owner with no reported mechanical issues. The clean title and strong bidding activity reflect its well-maintained status."
   },
   {
     "id": "c6bdd0ba-b947-4095-b0c7-abd367d39f7f",
@@ -4751,7 +4871,8 @@
     "selling_dealership": "Foothills Auto Sales",
     "lot": "C-0021",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in below-average condition with an intermittent AC compressor that requires diagnosis, a scratch on the liftgate, and scuff marks on the door sill plates. The clean title and $7,000 starting bid reflect the cosmetic and mechanical issues that will likely need attention before regular use."
   },
   {
     "id": "4ca82b47-b4a5-485f-aa2f-dfdf9a534e27",
@@ -4791,7 +4912,8 @@
     "selling_dealership": "Metropolitain Auto",
     "lot": "C-0022",
     "current_bid": 7000,
-    "bid_count": 1
+    "bid_count": 1,
+    "condition_summary": "This vehicle has a rebuilt title and displays significant cosmetic wear, including a dent on the rear quarter panel and peeling paint on the roof rack. A mechanical inspection is recommended before purchase, as the 2.9/5 condition grade indicates substantial wear throughout the vehicle."
   },
   {
     "id": "3c494f21-a296-4fc0-aad3-a6d4b5ddb1eb",
@@ -4832,7 +4954,8 @@
     "selling_dealership": "Laurentian Auto Group",
     "lot": "C-0023",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This salvage-title vehicle has a check engine light for a catalytic converter code, water damage to the rear cargo area carpet, faded headlight lenses, and minor scratches on the front bumper. It is sold as-is and recommended for parts or significant rebuild only."
   },
   {
     "id": "96fbfcaa-0b4a-465f-8f9f-60472268f252",
@@ -4870,7 +4993,8 @@
     "selling_dealership": "Maple Motors",
     "lot": "C-0024",
     "current_bid": 30000,
-    "bid_count": 10
+    "bid_count": 10,
+    "condition_summary": "This vehicle is in reasonable condition with typical wear and tear throughout, though it would benefit from professional detailing to improve its appearance. No major mechanical issues or structural damage have been identified, and the title is clean."
   },
   {
     "id": "a599f402-81d4-4ae0-aa23-88abfbda11a4",
@@ -4907,7 +5031,8 @@
     "selling_dealership": "Laurentian Auto Group",
     "lot": "C-0025",
     "current_bid": 38500,
-    "bid_count": 1
+    "bid_count": 1,
+    "condition_summary": "This vehicle is in reasonable condition with typical wear consistent with its age and mileage, requiring detailing but showing no major mechanical issues. No significant damage has been noted, and it comes with a clean title."
   },
   {
     "id": "f904c6c5-2946-483c-871c-0537ee423808",
@@ -4948,7 +5073,8 @@
     "selling_dealership": "Westcoast Auto Sales",
     "lot": "C-0026",
     "current_bid": 19000,
-    "bid_count": 15
+    "bid_count": 15,
+    "condition_summary": "This vehicle is in below-average condition with a dented tailgate, light hail damage across the roof, and a cracked front grille that will require repair. The clean title and current bid of $19,000 reflect the cosmetic damage present, though the vehicle may need immediate maintenance to address these noted issues."
   },
   {
     "id": "a3e6bf55-d5b3-47eb-9855-273501d3eee5",
@@ -4993,7 +5119,8 @@
     "selling_dealership": "Keystone Auto Group",
     "lot": "C-0027",
     "current_bid": 8500,
-    "bid_count": 12
+    "bid_count": 12,
+    "condition_summary": "This salvage-title vehicle has sustained significant damage including frame damage to the right front (previously repaired), deployed airbags (replaced with OEM parts), and flood damage causing ongoing electrical issues. Additional defects include minor rust on wheel wells, a small tear in rear seat upholstery, and a missing wheel center cap, making this vehicle suitable only for experienced rebuilders and not currently roadworthy."
   },
   {
     "id": "6bb25006-b355-4442-b6ca-2e6683bd8b9b",
@@ -5030,7 +5157,8 @@
     "selling_dealership": "Atlantic Auto Exchange",
     "lot": "C-0028",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows moderate wear consistent with previous daily use and runs and drives without issue, though cosmetic touch-ups are recommended. There is a scratch on the liftgate that should be noted by potential buyers."
   },
   {
     "id": "e793b96e-5c88-479a-a723-b42861a3dcf2",
@@ -5067,7 +5195,8 @@
     "selling_dealership": "Pacific Gateway Motors",
     "lot": "C-0029",
     "current_bid": 23500,
-    "bid_count": 15
+    "bid_count": 15,
+    "condition_summary": "This vehicle is in excellent overall condition with a clean interior showing minimal wear and an exterior that displays only minor age-appropriate imperfections. No significant damage has been noted, making this a well-maintained example ready for immediate use."
   },
   {
     "id": "aad545b5-eab9-4414-990e-4b868c231b20",
@@ -5106,7 +5235,8 @@
     "selling_dealership": "AutoPark Toronto",
     "lot": "C-0030",
     "current_bid": 10000,
-    "bid_count": 14
+    "bid_count": 14,
+    "condition_summary": "This vehicle is in average condition with light hail damage visible on the roof and some wear on frequently touched surfaces, though the engine and transmission operate normally. The clean title and current bid of $10,000.00 reflect its 3.2/5 condition grade."
   },
   {
     "id": "f694e8f2-c036-4d0d-aae5-0f0cf80daf38",
@@ -5145,7 +5275,8 @@
     "selling_dealership": "Champlain Motors",
     "lot": "C-0031",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is mechanically sound with average wear consistent with its age and mileage, though it displays some cosmetic imperfections. The front-right wheel shows curb rash, which is the primary damage noted on the vehicle."
   },
   {
     "id": "75cd6795-baa7-46a8-8e7f-4b539878fac4",
@@ -5180,7 +5311,8 @@
     "selling_dealership": "Prairie Sun Motors",
     "lot": "C-0032",
     "current_bid": 25500,
-    "bid_count": 14
+    "bid_count": 14,
+    "condition_summary": "This vehicle is in average condition with visible wear on high-touch surfaces, though the engine and transmission operate normally. No structural damage has been noted, and the title is clean."
   },
   {
     "id": "e861ba56-2b8d-44f7-b02b-20194f429e51",
@@ -5217,7 +5349,8 @@
     "selling_dealership": "Northern Ridge Motors",
     "lot": "C-0033",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in excellent condition with a clean interior and exterior showing only minor cosmetic wear consistent with normal use. All electronics and features are fully functional with no structural damage noted."
   },
   {
     "id": "5f57472f-bbb4-400d-8eb5-34da661c19dc",
@@ -5259,7 +5392,8 @@
     "selling_dealership": "Golden Horseshoe Motors",
     "lot": "C-0034",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in rough condition with several cosmetic issues including a small tear in the rear seat upholstery, paint chips on the hood, and a scratch along the driver-side fender, though the core mechanical systems are operational. It is suitable for buyers comfortable with repairs and carries a clean title with a starting bid of $14,000."
   },
   {
     "id": "7ced750c-a9e6-4003-a974-658e4c151c68",
@@ -5298,7 +5432,8 @@
     "selling_dealership": "St-Laurent Auto Exchange",
     "lot": "C-0035",
     "current_bid": 15500,
-    "bid_count": 7
+    "bid_count": 7,
+    "condition_summary": "This vehicle shows significant cosmetic wear with minor scratches on the front bumper, a damaged rear left mud flap, and a crack in the rear taillight housing. A mechanical inspection is recommended before purchase to assess any internal issues beyond the visible damage."
   },
   {
     "id": "cefdecd3-0925-4654-9b02-7fb6612377bd",
@@ -5335,7 +5470,8 @@
     "selling_dealership": "Harbour City Auto",
     "lot": "C-0036",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in exceptional condition with no damage noted, having been garage kept by a single previous owner with no reported mechanical issues. The clean title and $17,000 starting bid reflect its well-maintained status."
   },
   {
     "id": "358a8fab-527f-4717-baa7-e382bbff6932",
@@ -5372,7 +5508,8 @@
     "selling_dealership": "Champlain Motors",
     "lot": "C-0037",
     "current_bid": 28500,
-    "bid_count": 7
+    "bid_count": 7,
+    "condition_summary": "This vehicle is in above-average condition with all mechanical systems functioning properly and recently serviced new tires. The only notable wear is on the driver's seat leather bolster, which is a minor cosmetic issue that does not affect functionality."
   },
   {
     "id": "22272c75-4fd5-4a13-8859-29432f6ec45d",
@@ -5412,7 +5549,8 @@
     "selling_dealership": "Capital City Auto",
     "lot": "C-0038",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in rough overall condition with a clean title and operational core mechanical systems, though it requires attention including worn brake rotors that need replacement and a minor scrape on the passenger-side mirror. It is suitable for buyers prepared to handle repairs and maintenance work."
   },
   {
     "id": "8246d7a9-efbc-4e87-9b80-121b9a1b28b6",
@@ -5449,7 +5587,8 @@
     "selling_dealership": "Highway 7 Auto Sales",
     "lot": "C-0039",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is mechanically sound with a clean title and shows average wear consistent with its age and mileage, though some cosmetic imperfections are visible. No structural or mechanical damage has been noted."
   },
   {
     "id": "01487b58-5187-4f6f-ad28-2f54696f5a44",
@@ -5484,7 +5623,8 @@
     "selling_dealership": "Laurentian Auto Group",
     "lot": "C-0040",
     "current_bid": 20000,
-    "bid_count": 1
+    "bid_count": 1,
+    "condition_summary": "This vehicle is mechanically sound with a clean title and shows average wear consistent with its age and mileage, though some cosmetic imperfections are visible. No structural or mechanical damage has been noted."
   },
   {
     "id": "b741b684-7033-402e-ad6b-a797e337a6c4",
@@ -5524,7 +5664,8 @@
     "selling_dealership": "AutoPark Toronto",
     "lot": "C-0041",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is mechanically sound with average wear for its age and mileage, though it displays a small dent on the driver-side door and cosmetic curb rash on the front-right wheel. The clean title and 3.6/5 condition grade reflect its overall average condition with minor cosmetic imperfections."
   },
   {
     "id": "c77b4548-320b-4924-a097-f68052fdc454",
@@ -5559,7 +5700,8 @@
     "selling_dealership": "Island Auto Exchange",
     "lot": "C-0042",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in average condition with visible wear on frequently touched surfaces, though the engine and transmission operate normally. No structural damage has been noted, and the title is clean."
   },
   {
     "id": "260f39b0-b354-4acd-a60c-f75df40922d9",
@@ -5599,7 +5741,8 @@
     "selling_dealership": "King City Auto",
     "lot": "C-0043",
     "current_bid": 25000,
-    "bid_count": 6
+    "bid_count": 6,
+    "condition_summary": "This vehicle is in reasonable condition with typical wear and shows no major mechanical issues, though it would benefit from professional detailing. The exterior has minor cosmetic damage including scuff marks on the door sill plates, small scratches on the front bumper, and a minor scrape on the passenger-side mirror."
   },
   {
     "id": "c35f7485-7a2b-41d1-90ff-54994129e4ee",
@@ -5640,7 +5783,8 @@
     "selling_dealership": "King City Auto",
     "lot": "C-0044",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows significant wear from heavy use and requires several repairs, including repainting of the roof rack where paint is peeling, addressing a scratch on the driver-side fender, and replacing the damaged rear left mud flap. Additional cosmetic issues include scuff marks on the door sill plates, with the pricing reflecting the needed maintenance work."
   },
   {
     "id": "597e4ff0-bff1-4a70-b5c6-b774c74e9046",
@@ -5677,7 +5821,8 @@
     "selling_dealership": "Northland Chrysler",
     "lot": "C-0045",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in excellent overall condition with a clean interior showing minimal wear and a well-maintained exterior appropriate for its age. No significant damage has been noted, making it a solid choice for buyers seeking a quality vehicle."
   },
   {
     "id": "893f2048-6326-465f-bfc8-bcc847df5185",
@@ -5719,7 +5864,8 @@
     "selling_dealership": "Parkway Ford",
     "lot": "C-0046",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle has a clean title but shows significant wear with a dent on the rear quarter panel, a cracked rear taillight housing, and minor rust on the wheel wells. The engine has an active check engine light related to the catalytic converter, making a pre-purchase mechanical inspection strongly recommended."
   },
   {
     "id": "f06f0040-92e3-4bd6-8ffa-f407d43be14f",
@@ -5760,7 +5906,8 @@
     "selling_dealership": "Northland Chrysler",
     "lot": "C-0047",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is mechanically sound with average wear appropriate for its age and mileage, though it has a cracked rear taillight housing and minor scratches on the front bumper. The title is clean and bidding starts at $29,500."
   },
   {
     "id": "1502690f-c538-4083-b174-d50de78a936f",
@@ -5799,7 +5946,8 @@
     "selling_dealership": "Northland Chrysler",
     "lot": "C-0048",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in reasonable condition with normal wear throughout and no major mechanical issues, though it would benefit from professional detailing. There is a small tear in the rear seat upholstery that should be noted, but otherwise the vehicle presents as a solid option with a clean title."
   },
   {
     "id": "1989bd9d-50e2-4132-a723-e9a733464172",
@@ -5837,7 +5985,8 @@
     "selling_dealership": "Northern Ridge Motors",
     "lot": "C-0049",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in reasonable condition with normal wear throughout and no major mechanical issues identified, though it would benefit from professional detailing. Notable cosmetic damage includes faded headlight lenses and a scratch on the liftgate."
   },
   {
     "id": "02930ad7-295f-4bff-811b-411c07b2f4b2",
@@ -5879,7 +6028,8 @@
     "selling_dealership": "Westcoast Auto Sales",
     "lot": "C-0050",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in below-average condition with several maintenance issues requiring immediate attention, including worn brake rotors needing replacement, a check engine light indicating a catalytic converter code, and a missing wheel center cap. The rear bumper has a visible scratch from parking damage, and the vehicle will likely need repairs before reliable operation."
   },
   {
     "id": "963400ae-d8f4-4305-a6c9-31a4a09ba1bf",
@@ -5916,7 +6066,8 @@
     "selling_dealership": "AutoPark Toronto",
     "lot": "D-0001",
     "current_bid": 23000,
-    "bid_count": 13
+    "bid_count": 13,
+    "condition_summary": "This vehicle is in excellent condition with a clean interior and exterior showing only minor cosmetic wear consistent with normal use. All electronic systems and features are fully functional with no structural damage noted."
   },
   {
     "id": "b0ff0755-a03b-4a73-b529-647a156c0293",
@@ -5953,7 +6104,8 @@
     "selling_dealership": "Champlain Motors",
     "lot": "D-0002",
     "current_bid": 32000,
-    "bid_count": 7
+    "bid_count": 7,
+    "condition_summary": "This vehicle is in above-average condition with all mechanical systems functioning properly and recently serviced new tires. There is a scratch along the driver-side fender, though the clean title and strong bidding activity reflect its overall solid mechanical state."
   },
   {
     "id": "ef70da5b-b50c-4d38-afa5-c9483ce65fd9",
@@ -5989,7 +6141,8 @@
     "selling_dealership": "Atlantic Auto Exchange",
     "lot": "D-0003",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This well-maintained vehicle with full service history shows very good paint condition and a lightly-used interior consistent with its mileage. No damage has been noted, and the vehicle comes with a clean title."
   },
   {
     "id": "54361815-636a-4ff4-a985-bef3fddddef8",
@@ -6028,7 +6181,8 @@
     "selling_dealership": "Parkway Ford",
     "lot": "D-0004",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in excellent overall condition with a clean interior and well-maintained exterior, featuring only a minor scrape on the passenger-side mirror as the sole notable imperfection. The clean title and strong condition grade of 4.6/5 make this a solid acquisition at the $18,500 starting bid."
   },
   {
     "id": "3ea2ab4f-4da6-4320-bd9d-21b0855be01a",
@@ -6063,7 +6217,8 @@
     "selling_dealership": "Westcoast Auto Sales",
     "lot": "D-0005",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in above-average condition with all mechanical systems functioning properly and recently serviced new tires installed. No damage has been noted, and it comes with a clean title."
   },
   {
     "id": "221c6186-84bf-4e9e-9c79-80b5ac7ffd0e",
@@ -6100,7 +6255,8 @@
     "selling_dealership": "Westcoast Auto Sales",
     "lot": "D-0006",
     "current_bid": 20000,
-    "bid_count": 11
+    "bid_count": 11,
+    "condition_summary": "This vehicle is in excellent overall condition with a clean interior showing minimal wear and an exterior that displays only minor age-appropriate imperfections with no significant damage noted. The clean title and strong bidding activity reflect its well-maintained status."
   },
   {
     "id": "8108f14a-c35b-4294-af6f-4f2f8a48187f",
@@ -6138,7 +6294,8 @@
     "selling_dealership": "Harbour City Auto",
     "lot": "D-0007",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in reasonable condition with typical wear throughout and would benefit from professional detailing. The front-right wheel shows curb rash, but no major mechanical issues have been identified."
   },
   {
     "id": "879ceb97-67c2-443b-8194-fb67d9fa52f9",
@@ -6180,7 +6337,8 @@
     "selling_dealership": "Rive-Sud Motors",
     "lot": "D-0008",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle has a rebuilt title and shows below-average condition with light hail damage across the roof, a dent on the rear quarter panel, minor scratches on the front bumper, a cracked front grille, and a missing wheel center cap. While these issues are primarily cosmetic, the vehicle may require immediate maintenance to address the damage before regular use."
   },
   {
     "id": "018b5f78-79a2-4b18-ae47-ae4e53f1b40a",
@@ -6221,7 +6379,8 @@
     "selling_dealership": "Northern Ridge Motors",
     "lot": "D-0009",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows significant cosmetic wear including a chipped windshield on the passenger side, rock chips and paint touch-up on the hood, a small dent on the driver-side door, and minor scratches on the front bumper. A mechanical inspection is recommended before purchase to assess the vehicle's operational condition."
   },
   {
     "id": "bbf7eb0c-f86a-4c56-899e-200d98a51073",
@@ -6265,7 +6424,8 @@
     "selling_dealership": "Grand Touring Motors",
     "lot": "D-0010",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows significant wear with a rebuilt title and requires several repairs including worn brake rotors, a dent on the rear quarter panel, scratches on the driver-side fender and liftgate, and a small tear in the rear seat upholstery. The pricing reflects the heavy use and needed maintenance work."
   },
   {
     "id": "e299ab33-ea99-4dbb-a513-0cc5d2dc99b2",
@@ -6305,7 +6465,8 @@
     "selling_dealership": "Metropolitain Auto",
     "lot": "D-0011",
     "current_bid": 43000,
-    "bid_count": 8
+    "bid_count": 8,
+    "condition_summary": "This vehicle is mechanically sound with average wear for its age and mileage, though it shows cosmetic imperfections including worn leather on the driver seat bolster and a dent on the tailgate. The clean title and current bid of $43,000.00 reflect its 3.8/5 condition grade and overall market value."
   },
   {
     "id": "502334c0-42b8-4103-8220-151dbe66edb6",
@@ -6346,7 +6507,8 @@
     "selling_dealership": "King City Auto",
     "lot": "D-0012",
     "current_bid": 10000,
-    "bid_count": 17
+    "bid_count": 17,
+    "condition_summary": "This vehicle is in rough condition with operational core mechanical systems but requires repairs, including worn brake rotors that need replacement, a dent on the rear quarter panel, and a small tear in the rear seat upholstery. It is suitable for buyers comfortable with performing maintenance work and carries a clean title with current bidding at $10,000.00."
   },
   {
     "id": "cf892585-b438-4f5f-8a08-f0880e87ee9e",
@@ -6382,7 +6544,8 @@
     "selling_dealership": "Rive-Sud Motors",
     "lot": "D-0013",
     "current_bid": 26000,
-    "bid_count": 17
+    "bid_count": 17,
+    "condition_summary": "This well-maintained vehicle features excellent paint condition and a well-preserved interior consistent with its mileage, backed by full service history documentation. No damage has been noted, and the vehicle comes with a clean title."
   },
   {
     "id": "9ed6baa0-2236-49b5-bc56-c4640af0ec8f",
@@ -6417,7 +6580,8 @@
     "selling_dealership": "Parkway Ford",
     "lot": "D-0014",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in exceptional condition with no damage noted, having been garage kept by a single previous owner with no reported mechanical issues. The vehicle has a clean title and is ready for immediate use."
   },
   {
     "id": "03118bbb-a754-4654-ae36-ecdb0c722457",
@@ -6455,7 +6619,8 @@
     "selling_dealership": "Chinook Auto Group",
     "lot": "D-0015",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in reasonable condition with normal wear throughout and no major mechanical issues, though it would benefit from professional detailing. The front grille is cracked, which is the primary cosmetic damage noted."
   },
   {
     "id": "f11ee887-c85a-4a9e-9104-4329ee532a58",
@@ -6497,7 +6662,8 @@
     "selling_dealership": "Rive-Sud Motors",
     "lot": "D-0016",
     "current_bid": 32500,
-    "bid_count": 4
+    "bid_count": 4,
+    "condition_summary": "This vehicle is in reasonable condition with normal wear and would benefit from detailing, though no major mechanical issues were identified. The exterior shows a scratch on the liftgate, a dent on the rear quarter panel, and scuff marks on the door sill plates."
   },
   {
     "id": "db563df3-61eb-4e87-9244-ca3819a674d3",
@@ -6538,7 +6704,8 @@
     "selling_dealership": "AutoPark Toronto",
     "lot": "D-0017",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle has extensive incident damage requiring professional frame inspection and carries a salvage title, with replaced OEM airbags, an intermittent AC compressor needing diagnosis, a small tear in the rear seat upholstery, and paint touch-ups on the hood from rock chips. The overall condition is poor (1.9/5) and buyers should budget for additional repairs beyond the noted damage."
   },
   {
     "id": "7f236303-8db9-4dae-8d62-88889ea7771c",
@@ -6582,7 +6749,8 @@
     "selling_dealership": "AutoPark Toronto",
     "lot": "D-0018",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle has a salvage title and is in below-average condition with multiple issues including an active check engine light related to the catalytic converter, a chipped windshield on the passenger side, and several dents and scratches on the rear end (tailgate, rear quarter panel, and rear bumper). The vehicle may require immediate maintenance and repairs to address the engine code and cosmetic damage before it is roadworthy."
   },
   {
     "id": "fafc5733-6237-4d2e-9c42-c02afa57ab62",
@@ -6618,7 +6786,8 @@
     "selling_dealership": "Prairie Sun Motors",
     "lot": "D-0019",
     "current_bid": 41000,
-    "bid_count": 4
+    "bid_count": 4,
+    "condition_summary": "This vehicle is mechanically sound with a clean title and shows average wear consistent with its age and mileage, though some cosmetic imperfections are present. No structural or mechanical damage has been noted."
   },
   {
     "id": "c57efc68-1e03-469a-93e7-f12fe51a1f10",
@@ -6657,7 +6826,8 @@
     "selling_dealership": "Fraser Valley Auto Group",
     "lot": "D-0020",
     "current_bid": 16500,
-    "bid_count": 5
+    "bid_count": 5,
+    "condition_summary": "This vehicle shows significant wear from heavy use and requires several repairs, including replacement of worn brake rotors and addressing a scratch along the driver-side fender. The clean title and competitive pricing reflect the condition and necessary maintenance work needed."
   },
   {
     "id": "e6f3733c-28f0-4829-9e04-7c508c489e8a",
@@ -6692,7 +6862,8 @@
     "selling_dealership": "Capital City Auto",
     "lot": "D-0021",
     "current_bid": 15000,
-    "bid_count": 14
+    "bid_count": 14,
+    "condition_summary": "This vehicle is mechanically sound with a clean title and shows average wear consistent with its age and mileage, though it displays some cosmetic imperfections. No structural or mechanical damage has been noted."
   },
   {
     "id": "e7110b4a-b07b-4c43-aa1a-ffc435b379e6",
@@ -6735,7 +6906,8 @@
     "selling_dealership": "Rive-Sud Motors",
     "lot": "D-0022",
     "current_bid": 10000,
-    "bid_count": 13
+    "bid_count": 13,
+    "condition_summary": "This vehicle is in below-average condition with multiple visible issues including scuff marks on the door sill plates, a cracked front grille, a dent on the rear quarter panel, and a chip in the passenger-side windshield. The brake rotors are worn and due for replacement, indicating this vehicle will require immediate maintenance before reliable operation."
   },
   {
     "id": "d8966200-67d2-432b-9df4-f87b98ed30a9",
@@ -6770,7 +6942,8 @@
     "selling_dealership": "Golden Horseshoe Motors",
     "lot": "D-0023",
     "current_bid": 16500,
-    "bid_count": 5
+    "bid_count": 5,
+    "condition_summary": "This vehicle shows moderate wear consistent with previous daily driver use, though it runs and drives without issue and no structural damage has been noted. The rebuilt title and cosmetic wear throughout suggest it would benefit from minor touch-ups, but it is mechanically sound."
   },
   {
     "id": "e028beee-9c4e-44e1-936f-0f8a775e1836",
@@ -6808,7 +6981,8 @@
     "selling_dealership": "Chinook Auto Group",
     "lot": "D-0024",
     "current_bid": 30500,
-    "bid_count": 1
+    "bid_count": 1,
+    "condition_summary": "This vehicle is in excellent condition with a clean interior and exterior, featuring fully functional electronics and all features working as intended. The only notable damage is a minor scratch on the rear bumper from a parking incident, with no other cosmetic or mechanical issues present."
   },
   {
     "id": "02d43bb2-96e6-4362-95dc-aea2ae0c3f65",
@@ -6847,7 +7021,8 @@
     "selling_dealership": "Prairie Motors",
     "lot": "D-0025",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in rough condition with light hail damage across the roof and a dent on the tailgate, though core mechanical systems remain operational. It is suitable for buyers comfortable with cosmetic repairs and carries a clean title with a starting bid of $10,000."
   },
   {
     "id": "ba32a172-12d9-4dff-ab94-956fe6323470",
@@ -6889,7 +7064,8 @@
     "selling_dealership": "St-Laurent Auto Exchange",
     "lot": "D-0026",
     "current_bid": 10000,
-    "bid_count": 5
+    "bid_count": 5,
+    "condition_summary": "This vehicle is in below-average condition with a 2.3/5 grade and shows visible wear including worn leather on the driver seat bolster, a scratch on the rear bumper, curb rash on the front-right wheel, and minor rust on the wheel wells. The clean title and current bid of $10,000 reflect these cosmetic and minor maintenance issues that may require attention."
   },
   {
     "id": "d5e524dc-350a-4499-975f-3b1300de4282",
@@ -6932,7 +7108,8 @@
     "selling_dealership": "Lakeshore Auto Group",
     "lot": "D-0027",
     "current_bid": 17500,
-    "bid_count": 3
+    "bid_count": 3,
+    "condition_summary": "This vehicle is in below-average condition with a check engine light indicating a catalytic converter code, a cracked rear taillight housing, and a chipped windshield on the passenger side. Additional cosmetic damage includes minor scratches on the front bumper and a minor scrape on the passenger-side mirror."
   },
   {
     "id": "335c856f-de1e-4cbb-8972-817d1dda5495",
@@ -6968,7 +7145,8 @@
     "selling_dealership": "Rive-Sud Motors",
     "lot": "D-0028",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows moderate wear consistent with previous daily use but runs and drives without issue, requiring only cosmetic touch-ups. No structural damage or mechanical problems have been noted, and it comes with a clean title."
   },
   {
     "id": "5c80170f-63e4-44fd-9130-4e3ecb265d42",
@@ -7008,7 +7186,8 @@
     "selling_dealership": "Grand Touring Motors",
     "lot": "D-0029",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is a former daily driver in good running condition with moderate cosmetic wear, including faded headlight lenses, a dent on the tailgate, and a scratch on the rear bumper from parking. Despite these minor blemishes, the vehicle runs and drives without issue and would benefit from cosmetic touch-ups to restore its appearance."
   },
   {
     "id": "493a149d-9407-4e29-a971-3bb724e83c7d",
@@ -7045,7 +7224,8 @@
     "selling_dealership": "Durham Auto Exchange",
     "lot": "D-0030",
     "current_bid": 31500,
-    "bid_count": 16
+    "bid_count": 16,
+    "condition_summary": "This vehicle is in excellent overall condition with a clean interior showing minimal wear and an exterior that displays only minor imperfections consistent with its age. No significant damage has been noted, making it a well-maintained example ready for immediate use."
   },
   {
     "id": "75688aa0-6a68-4486-889d-038890db4234",
@@ -7081,7 +7261,8 @@
     "selling_dealership": "Fraser Valley Auto Group",
     "lot": "D-0031",
     "current_bid": 27000,
-    "bid_count": 18
+    "bid_count": 18,
+    "condition_summary": "This vehicle is in fair overall condition with minor interior wear and a few exterior blemishes, though it drives well with no major damage noted. The clean title and current bid of $27,000 reflect its fair market value given the cosmetic imperfections."
   },
   {
     "id": "db7cd541-b78d-4fb3-9e54-37379edb143f",
@@ -7117,7 +7298,8 @@
     "selling_dealership": "Laurentian Auto Group",
     "lot": "D-0032",
     "current_bid": 28500,
-    "bid_count": 7
+    "bid_count": 7,
+    "condition_summary": "This well-maintained vehicle features excellent paint condition and a lightly-used interior consistent with its mileage, backed by a complete service history. No damage has been noted, and the vehicle comes with a clean title."
   },
   {
     "id": "3c5f3a14-32a9-4cf2-8b65-77e250b5d3e0",
@@ -7159,7 +7341,8 @@
     "selling_dealership": "King City Auto",
     "lot": "D-0033",
     "current_bid": 14000,
-    "bid_count": 14
+    "bid_count": 14,
+    "condition_summary": "This vehicle shows significant cosmetic wear including scuff marks on door sill plates, a small tear in the rear seat upholstery, a minor scrape on the passenger-side mirror, and a scratch on the liftgate. The AC compressor operates intermittently and requires diagnosis, making a pre-purchase mechanical inspection strongly recommended."
   },
   {
     "id": "72c7c573-8cac-4756-bd03-b5957bab9cb9",
@@ -7197,7 +7380,8 @@
     "selling_dealership": "Lakeshore Auto Group",
     "lot": "D-0034",
     "current_bid": 18500,
-    "bid_count": 1
+    "bid_count": 1,
+    "condition_summary": "This vehicle is in exceptional condition with no reported mechanical issues, having been garage-kept by a single previous owner. No damage has been noted, and the title is clean."
   },
   {
     "id": "154dcbc1-c3f8-4b71-a0e9-e80776c1f944",
@@ -7235,7 +7419,8 @@
     "selling_dealership": "Keystone Auto Group",
     "lot": "D-0035",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows heavy wear from extended use and requires several repairs, including diagnosis and likely replacement of an intermittent AC compressor and repair of a passenger-side windshield chip. The $7,000 starting bid reflects the vehicle's condition and the work needed to bring it to full operating condition."
   },
   {
     "id": "ea2f19bf-131e-4d96-956c-2a10a909b132",
@@ -7275,7 +7460,8 @@
     "selling_dealership": "Rive-Sud Motors",
     "lot": "D-0036",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle has a rebuilt title and shows significant cosmetic wear with minor rust on the wheel wells and a small scrape on the passenger-side mirror. A mechanical inspection is recommended before purchase given the overall condition grade of 2.5/5."
   },
   {
     "id": "25090c56-ea41-4067-904d-d0da6854f69e",
@@ -7311,7 +7497,8 @@
     "selling_dealership": "St-Laurent Auto Exchange",
     "lot": "D-0037",
     "current_bid": 29500,
-    "bid_count": 16
+    "bid_count": 16,
+    "condition_summary": "This vehicle is in excellent overall condition with a clean interior showing minimal wear and a well-maintained exterior appropriate for its age. No significant damage has been noted, with only minor cosmetic imperfections consistent with normal use."
   },
   {
     "id": "e72d46ae-512c-41a4-b52d-7c866c149d4b",
@@ -7347,7 +7534,8 @@
     "selling_dealership": "Mountain View Motors",
     "lot": "D-0038",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in fair overall condition with a rebuilt title and shows typical wear on the interior with minor exterior blemishes, though no major damage was noted. The vehicle drives well and is offered with a starting bid of $7,000."
   },
   {
     "id": "031584ce-f351-4404-9dc3-765e9b68595d",
@@ -7389,7 +7577,8 @@
     "selling_dealership": "Capital City Auto",
     "lot": "D-0039",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows significant wear with a rebuilt title and requires several repairs including a faded headlight lenses, minor front bumper scratches, light hail damage on the roof, a damaged rear left mud flap, and an intermittent AC compressor that needs diagnosis. The condition grade of 2.9/5 reflects heavy use, and the starting bid of $8,500 is priced accordingly to account for the needed work."
   },
   {
     "id": "ab69ea7d-1baf-49d1-b9b2-ef6c38b78540",
@@ -7432,7 +7621,8 @@
     "selling_dealership": "Maple Motors",
     "lot": "D-0040",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This salvage-title vehicle has significant mechanical issues including transmission slippage between 2nd and 3rd gear, a catalytic converter fault triggering the check engine light, and prior frame damage to the right front that has been repaired. Cosmetically, the vehicle shows a worn driver's seat bolster, a dent on the tailgate, and a scratch on the rear bumper, and it is not currently roadworthy."
   },
   {
     "id": "04ee439e-0ada-4c1f-a9c2-4e70ad5d4dd4",
@@ -7475,7 +7665,8 @@
     "selling_dealership": "Rive-Sud Motors",
     "lot": "D-0041",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle shows significant cosmetic wear including scuff marks on the door sill plates, a cracked front grille, minor rust on the wheel wells, and a scratch on the liftgate. A mechanical inspection is recommended before purchase to assess the vehicle's overall condition and identify any underlying issues."
   },
   {
     "id": "ddf89062-1b82-4428-8c18-f7406b0300be",
@@ -7512,7 +7703,8 @@
     "selling_dealership": "Maple Motors",
     "lot": "D-0042",
     "current_bid": 32500,
-    "bid_count": 9
+    "bid_count": 9,
+    "condition_summary": "This vehicle is in excellent overall condition with a clean interior showing minimal wear and an exterior that displays only minor age-appropriate imperfections. No significant damage has been noted, making it a well-maintained example ready for immediate use."
   },
   {
     "id": "e84c939c-b1f7-477f-9dab-d009a038e98d",
@@ -7550,7 +7742,8 @@
     "selling_dealership": "Keystone Auto Group",
     "lot": "D-0043",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in rough condition with a dent on the rear quarter panel and a small tear in the rear seat upholstery, though core mechanical systems remain operational. It is suitable for buyers comfortable with repairs and carries a clean title with a starting bid of $7,500."
   },
   {
     "id": "919111e1-6b6a-4b83-9128-7cd3827b91d8",
@@ -7588,7 +7781,8 @@
     "selling_dealership": "Metropolitain Auto",
     "lot": "D-0044",
     "current_bid": 9500,
-    "bid_count": 16
+    "bid_count": 16,
+    "condition_summary": "This vehicle has a salvage title and is not roadworthy in its current condition, with major mechanical issues including an intermittent AC compressor requiring diagnosis and significant cosmetic damage. The liftgate has a scratch, and this vehicle is only suitable for experienced rebuilders."
   },
   {
     "id": "966f407a-9bb0-48f7-9791-962d14f0c9f4",
@@ -7623,7 +7817,8 @@
     "selling_dealership": "Island Auto Exchange",
     "lot": "D-0045",
     "current_bid": 36000,
-    "bid_count": 4
+    "bid_count": 4,
+    "condition_summary": "This vehicle is in excellent condition with a clean interior and exterior showing only minor cosmetic wear consistent with normal use. All electronics and features are fully functional with no structural damage noted."
   },
   {
     "id": "aa1dc6da-d76c-4be0-9ba3-56fbfcf51044",
@@ -7663,7 +7858,8 @@
     "selling_dealership": "Northern Ridge Motors",
     "lot": "D-0046",
     "current_bid": 7500,
-    "bid_count": 14
+    "bid_count": 14,
+    "condition_summary": "This vehicle shows significant cosmetic wear including a cracked rear taillight housing, scratches on the front bumper and liftgate, and peeling paint on the roof rack. A mechanical inspection is recommended before purchase to assess the vehicle's overall condition beyond the visible damage."
   },
   {
     "id": "ba888a6f-04b5-413c-8d87-0f29ba30a2eb",
@@ -7700,7 +7896,8 @@
     "selling_dealership": "Northland Chrysler",
     "lot": "D-0047",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This vehicle is in fair overall condition with a clean title and drives well, though the interior shows some wear and there are minor exterior blemishes. The roof has light hail damage, which is the primary cosmetic concern."
   },
   {
     "id": "62eb822a-a238-4a88-b718-942b8fca86aa",
@@ -7735,7 +7932,8 @@
     "selling_dealership": "Maple Motors",
     "lot": "D-0048",
     "current_bid": 35500,
-    "bid_count": 10
+    "bid_count": 10,
+    "condition_summary": "This vehicle is in reasonable condition with typical wear throughout and would benefit from professional detailing to restore its appearance. No major mechanical issues or damage have been identified, and it comes with a clean title."
   },
   {
     "id": "435df02e-2afa-4f26-9caa-45956583f6c7",
@@ -7777,7 +7975,8 @@
     "selling_dealership": "Northland Chrysler",
     "lot": "D-0049",
     "current_bid": 14500,
-    "bid_count": 3
+    "bid_count": 3,
+    "condition_summary": "This vehicle has substantial structural and mechanical issues including a deployed airbag that has been replaced with OEM parts, an active check engine light related to the catalytic converter, and cosmetic damage consisting of peeling paint on the roof rack, minor scratches on the front bumper, and surface rust on the wheel wells. It is sold as-is and is recommended only for parts or significant rebuild purposes."
   },
   {
     "id": "e4be9cf8-7794-46a7-82c2-b3510f11bff3",
@@ -7815,6 +8014,7 @@
     "selling_dealership": "AutoPark Toronto",
     "lot": "D-0050",
     "current_bid": null,
-    "bid_count": 0
+    "bid_count": 0,
+    "condition_summary": "This well-maintained vehicle features excellent paint condition and a clean title with full service history available. The interior shows only light wear consistent with its mileage, with no damage noted."
   }
 ]
