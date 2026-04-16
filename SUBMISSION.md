@@ -11,16 +11,7 @@ npm run dev
 
 Open http://localhost:5173
 
-Requires Node.js 18+. No environment variables needed — the app runs fully without any API key. AI condition summaries are pre-computed and baked into the dataset.
-
-**Optional:** To enable live AI summaries on vehicle detail pages, add your Anthropic or OpenAI key to a `.env` file:
-
-```
-VITE_CLAUDE_API_KEY=your_key_here
-VITE_OPENAI_API_KEY=your_key_here
-```
-
-The app works completely without either key.
+Requires Node.js 18+. No environment variables needed. AI condition summaries are pre-computed by Claude Haiku and baked into the dataset — every reviewer sees real AI output with zero setup.
 
 ---
 

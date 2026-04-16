@@ -1,146 +1,142 @@
-<p align="center">
-  <img src="docs/the_block_repo.png" alt="The Block challenge hero image" width="960" />
-</p>
-
 # The Block
 
-### A coding challenge from OPENLANE
+**Dhiren Vazirani** | OPENLANE Hiring Challenge
+
+A buyer-side vehicle auction platform built with React, TypeScript, and Tailwind CSS. Browse 200 vehicles, inspect condition details with AI-generated assessments, place tiered bids, and track favorites.
 
 ---
 
-OPENLANE powers one of the world's largest digital marketplaces for used vehicles. Every day, thousands of vehicles move through our platform - inspected, listed, auctioned, and sold. Your job is to interpret what we do and bring a working prototype to life.
+## How to Run
 
-We're hiring for a team that builds fast, thinks independently, and takes ownership. This challenge is part of that process.
-
-## The Challenge
-
-Build the **buyer side of a vehicle auction platform as a web application**. We've included a dataset of 200 vehicles in [`data/vehicles.json`](data/vehicles.json), each listed by a selling dealership.
-
-A buyer should be able to browse inventory, inspect vehicle details, and place bids. That's the core experience. How you structure the product and how far you take it is up to you.
-
-## Core Requirements
-
-- Browse and search the vehicle inventory
-- Vehicle detail views with specs, condition, damage notes, selling dealership, and photos
-- A bidding experience where a buyer can place bids on vehicles
-- A responsive web experience that works well on desktop and mobile browsers
-- Clear instructions in your README for how to run the project locally
-
-## Assumptions You Can Make
-
-- This is a prototype, not a production launch.
-- Target roughly **4-8 hours** of work. If you spend more, that's your call, but we do not expect a fully built marketplace.
-- Use any framework, language, or stack.
-- If you want to align with our current web stack, a React + Vite setup is a good fit. Tailwind is also a reasonable choice, but none of these are required.
-- You may use AI tools and coding assistants, and their use is encouraged. Be ready to explain how you used them, what decisions you made, and what parts of the implementation you would refine.
-- Authentication and user accounts are **not required**.
-- A frontend-only implementation is completely acceptable.
-- You do **not** need to build seller workflows, checkout, payments, or dealer admin tooling.
-- Auction timestamps in the dataset are synthetic scheduling data. If you want to show countdowns or "live" states, it's fine to normalize them relative to "now" in your prototype.
-- Make reasonable product decisions, document your assumptions, and optimize for clarity over surface area.
-
-## Minimum Bar
-
-At a minimum, we want to see:
-
-- Inventory browsing and search
-- A clear vehicle detail experience
-- A bid flow with updated visible state
-- A usable experience on desktop and mobile
-- A repo we can clone and run by following your README
-
-## Stretch Ideas
-
-These are optional. Only do them if the basics are solid.
-
-- We care more about judgment than about any specific extra feature.
-- If you go beyond the basics, focus on improvements that make the buyer experience clearer, more useful, or more trustworthy.
-- That could show up in product decisions, UX details, implementation quality, or any other thoughtful extension that fits the timebox.
-
-## What to Submit
-
-1. **Fork this repo** to your own GitHub account
-2. Complete the challenge work in your fork
-3. Include a **README** in your repo with setup instructions and notable decisions
-4. When you're finished, share the link to your repo with your contact at **OPENLANE**
-
-We've included a [submission template](SUBMISSION.md) if you want a starting point.
-
-We should be able to clone your repo and have it running locally by following your README.
-
-## Timeline
-
-You have **5 days** from when you receive this challenge to submit it.
-
-This is not a speed run. We care more about your decisions and tradeoffs than the total number of features.
-
-## What Happens Next
-
-After you submit, we'll schedule a **45-60 minute walkthrough** where you'll screen-share and walk us through what you built. More details are in [`WALKTHROUGH.md`](WALKTHROUGH.md).
-
-## How We Evaluate
-
-We're not checking boxes. Here's what we care about:
-
-| | What we're looking at |
-|---|---|
-| **Product thinking** | Did you make smart decisions about what to build and how it should work? Does the UX make sense? |
-| **Craft** | Does it look and feel intentional? The details matter - design, responsiveness, polish. |
-| **Technical quality** | Is the code clean, well-structured, and easy to follow? |
-| **Judgment** | Did you scope the work well for the time budget and make sensible tradeoffs? |
-| **Workflow** | Can you walk us through how you built it and why? (assessed in the walkthrough) |
-
-## The Data
-
-The vehicle dataset is at [`data/vehicles.json`](data/vehicles.json). Each vehicle includes:
-
-- Lot number, VIN, make, model, year, and trim
-- Specs (engine, transmission, drivetrain, fuel type, odometer)
-- Condition (grade, report, damage notes, title status)
-- Auction details (starting bid, reserve price, buy now price, auction start time)
-- Current bid and bid count (some vehicles already have active bids)
-- Location (city and province)
-- Selling dealership
-- Placeholder image URLs
-
-Here's what a single vehicle looks like:
-
-```json
-{
-  "id": "3cc3b89e-68b0-479e-af39-bca6251ea0b4",
-  "vin": "TRD7L1KS0HNB5X3K3",
-  "year": 2023,
-  "make": "Ford",
-  "model": "Bronco",
-  "trim": "Big Bend",
-  "body_style": "SUV",
-  "exterior_color": "Burgundy",
-  "interior_color": "Beige",
-  "engine": "2.7L EcoBoost V6",
-  "transmission": "automatic",
-  "drivetrain": "4WD",
-  "odometer_km": 47731,
-  "fuel_type": "gasoline",
-  "condition_grade": 3.8,
-  "condition_report": "Average condition. Has some visible wear on high-touch surfaces. Engine and transmission perform within normal parameters.",
-  "damage_notes": [
-    "Scratch on liftgate",
-    "Minor rust on wheel wells",
-    "Paint peeling on roof rack"
-  ],
-  "title_status": "clean",
-  "province": "Ontario",
-  "city": "Toronto",
-  "auction_start": "2026-04-05T14:00:00",
-  "starting_bid": 14500,
-  "reserve_price": 25000,
-  "buy_now_price": null,
-  "images": ["https://placehold.co/800x600?text=2023+Ford+Bronco+Photo+1", "..."],
-  "selling_dealership": "King City Auto",
-  "lot": "A-0043",
-  "current_bid": 22800,
-  "bid_count": 16
-}
+```bash
+git clone https://github.com/DhirenV01/the-block
+cd the-block
+npm install
+npm run dev
 ```
 
-The data is synthetic but meant to feel realistic. Use it however you want.
+Open http://localhost:5173. Requires Node.js 18+.
+
+No environment variables needed. All AI condition summaries are pre-computed and baked into the dataset — every reviewer sees real Claude Haiku output with zero setup.
+
+Run tests:
+
+```bash
+npm test
+```
+
+---
+
+## Time Spent
+
+~6 hours across 4 sessions.
+
+| Session | Time | Focus |
+|---------|------|-------|
+| 1 | 1.5h | Product spec, CLAUDE.md, project scaffolding, TypeScript interfaces, utility functions, hooks |
+| 2 | 1.5h | Inventory page — VehicleCard, FilterBar, URL-persisted filters, search, sort, pagination |
+| 3 | 2h | Vehicle detail — ImageGallery, specs, condition, BidForm, AuctionPanel, BuyerIntelligenceCard, enrich script |
+| 4 | 1h | WatchlistPage, EndingSoonStrip, stats bar, Vitest unit tests |
+
+---
+
+## Architecture at a Glance
+
+```
+src/
+  types.ts                  Vehicle, Bid, AuctionStatus, AppContextType
+  context/AppContext.tsx     Vehicles, bids, watchlist, compare — all state
+  pages/
+    InventoryPage.tsx        Search, filter, sort, paginate 200 vehicles
+    VehicleDetailPage.tsx    Full detail + sticky auction panel + bid flow
+    WatchlistPage.tsx        Saved vehicles grid
+  components/
+    ui/                      VehicleCard, BidForm, FilterBar, ImageGallery,
+                             EndingSoonStrip, AuctionStatusPill, ConditionBadge,
+                             BuyerIntelligenceCard, Pagination, EmptyState
+    layout/                  Navbar, Layout
+  utils/
+    auctionUtils.ts          getAuctionStatus, getTimeDisplay, getLiveRemainingMs
+    bidUtils.ts              getMinBidIncrement, getMinBid (tiered)
+    formatUtils.ts           formatCurrency, formatOdometer, condition labels
+  hooks/
+    useLocalStorage.ts       Generic localStorage hook
+    useBidState.ts           Bid state accessor
+scripts/
+  enrich.ts                  Pre-compute Claude Haiku condition summaries
+data/
+  vehicles.json              200 vehicles with baked-in AI summaries
+```
+
+---
+
+## What I Built
+
+**Browse** — Inventory grid with debounced search (300ms), dropdown filters for make/body style/province, condition grade slider, four sort modes, and pagination at 20 per page. All filter state lives in URL query params via `useSearchParams` so filtered views survive navigation and are shareable. An Ending Soon strip surfaces live auctions, and a stats bar shows totals at a glance.
+
+**Inspect** — Two-column detail page (single column on mobile) with image gallery, full specs, condition section with grade display and damage notes, title status badge, selling dealership, and a Condition Summary card. The summary is generated by Claude Haiku using each vehicle's actual condition data — pre-computed once via `scripts/enrich.ts` and stored in the dataset.
+
+**Bid** — Tiered minimum increments modeled on real wholesale auction behavior: $250 under $10k, $500 at $10k-$25k, $750 at $25k-$50k, $1,000 above $50k. Reserve price is never shown — only whether it has been met. Buy Now available on eligible vehicles. All bid state persists to localStorage.
+
+**Track** — Watchlist with localStorage persistence, amber badge count in the navbar, and a dedicated page.
+
+---
+
+## Notable Decisions
+
+**URL-persisted filters** — Filters live in `useSearchParams`, not component state. A buyer can filter to specific criteria, drill into vehicle details, press back, and return to the same filtered view. Filtered URLs are shareable.
+
+**Tiered bid increments** — A flat percentage increment doesn't scale: 5% on $6,000 is $300 (reasonable), 5% on $60,000 is $3,000 (too aggressive). Real wholesale auctions use price-tiered steps. I used four tiers.
+
+**Reserve price hidden** — Showing the exact reserve destroys auction game theory. If a buyer sees reserve is $24,000 and current bid is $22,000, they bid $24,001 and stop. Concealing it forces bids based on perceived value. This matches eBay, Copart, and ADESA.
+
+**Pre-computed AI summaries** — Runtime API calls add latency, cost, and require the reviewer to supply an API key. Instead: run `scripts/enrich.ts` once with the Anthropic SDK, bake all 200 summaries into `vehicles.json`, serve them statically. Zero latency, no setup, real AI output.
+
+**Starting bid vs current bid** — Zero-bid vehicles show "Starting Bid" and the floor price, not "Current Bid: $0". Nobody bid zero dollars.
+
+**Frontend only** — No backend means nothing to configure, no ports to free, no databases to seed. `npm install && npm run dev` and it works.
+
+---
+
+## Stack
+
+- **React 19** + **Vite** + **TypeScript** (strict mode)
+- **Tailwind CSS v4** (no inline styles, no CSS files)
+- **React Router v7** with `useSearchParams` for filter persistence
+- **React Context** + **localStorage** for state
+- **Vitest** — 20 unit tests across 3 files
+- **Claude Haiku** via Anthropic SDK — pre-computed at build time via `scripts/enrich.ts`
+
+---
+
+## AI Workflow
+
+I wrote a full product spec ([SPEC.md](SPEC.md)) and a project rules file ([CLAUDE.md](CLAUDE.md)) before writing any code. Every feature decision — tiered increments, hidden reserve, URL filters, pre-computed summaries — was mine, made before prompting.
+
+I used Claude Code with Opus for the planning session (component tree, context shape, utility signatures) and Sonnet for implementation. I ran `/compact` between features to manage context and reviewed every output before accepting.
+
+I caught two issues during manual browser testing: the bid form was pre-populating incorrectly on zero-bid vehicles, and placeholder images were rendering with a dark navy background from the external service. Both were identified visually and corrected.
+
+The AI product feature (Condition Summary) was designed as a pre-computation. The enrichment script calls Claude Haiku with each vehicle's condition data and writes summaries back to the dataset. The result: every reviewer sees real AI output with no API key, no latency, and no runtime dependency.
+
+---
+
+## Testing
+
+20 unit tests across 3 files. Run with `npm test`.
+
+| File | Tests | Coverage |
+|------|-------|----------|
+| `bidUtils.test.ts` | 5 | All four tiered increment tiers + boundary values |
+| `formatUtils.test.ts` | 12 | Currency formatting, odometer, condition label thresholds, condition color classes |
+| `auctionUtils.test.ts` | 3 | Valid status return, deterministic for same ID, all three statuses reachable |
+
+---
+
+## What I'd Do With More Time
+
+- **Compare mode** — Side-by-side vehicle comparison. The data structure and compare state in AppContext are already scaffolded.
+- **AI summary evaluation** — A script to validate summaries against a quality rubric (minimum length, no hallucinated details, damage note references).
+- **Real-time bids** — WebSocket updates across tabs and sessions.
+- **Proxy bidding** — Set a max bid and auto-increment up to it.
+- **Real images** — Vehicle photography integration to replace SVG placeholders.
