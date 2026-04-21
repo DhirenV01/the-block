@@ -93,6 +93,16 @@
 - [x] `src/utils/auctionUtils.test.ts` — 3 tests: valid status return, deterministic for same ID, all three statuses reachable
 - [x] All 20 tests pass, zero TypeScript errors
 
-## Next Session Scope
+---
 
-- `SUBMISSION.md`
+# Session 5 Summary — The Block ✓ Complete
+
+## Completed
+
+- [x] `src/pages/ComparePage.tsx` — two-column side-by-side layout: image placeholder, year/make/model/trim header, auction status pill, condition grade with colored dot, current/starting bid (font-mono, large), engine/transmission/drivetrain/odometer/title/province specs table, damage notes list; differences highlighted (higher condition = green, lower = red; lower bid = green for buyer)
+- [x] `src/components/ui/CompareBar.tsx` — sticky bottom bar visible when compareList has 1 or 2 vehicles; shows selected vehicle name chips with X remove; "Add one more vehicle to compare" prompt at 1 selected; amber Compare button navigates to /compare at 2 selected
+- [x] `src/components/layout/Layout.tsx` — wires `CompareBar`, adds `pb-16` to prevent content overlap with sticky bar
+- [x] `VehicleCard.tsx` compare checkbox confirmed correct — already calls `addToCompare`/`removeFromCompare` with disabled state when 2 already selected
+- [x] `src/components/ui/BidForm.tsx` — Standard Bid / Max Bid toggle (pill switcher); Max Bid shows second input for maximum; on submit places minimum valid bid immediately and stores max in `localStorage` as `maxBids[vehicleId]`; success message shows "Auto-bidding active up to your maximum"; on mount checks if current_bid exceeds stored max and shows outbid warning
+- [x] `SUBMISSION.md` — moved compare mode and proxy bidding from What I'd Do to What I Built; updated session log
+- [x] Build passes, zero TypeScript errors
