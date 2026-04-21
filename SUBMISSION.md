@@ -27,6 +27,8 @@ Session 3 (2h): Built VehicleDetailPage with two-column layout, ImageGallery, Co
 
 Session 4 (1h): WatchlistPage, Vitest unit tests, polish.
 
+Session 5 (1h): Compare mode (ComparePage + CompareBar), proxy/max bidding.
+
 ---
 
 ## Assumptions and Scope
@@ -81,6 +83,10 @@ A buyer-side vehicle auction platform with four core flows.
 
 **Track** — Watchlist with localStorage persistence, nav badge count, and a dedicated watchlist page.
 
+**Compare** — Side-by-side comparison of two vehicles. Select vehicles from any card's Compare checkbox. A sticky CompareBar at the bottom tracks selections, prompts to add a second vehicle, and navigates to /compare when both are selected. The compare page shows image, year/make/model/trim header, condition grade with colored dot, current or starting bid in large monospace, a full specs table (engine, transmission, drivetrain, odometer, title, province), and damage notes. Differences are highlighted: higher condition grade in green and lower in red; lower bid in green and higher in red (favoring the buyer). Clear Compare returns to inventory.
+
+**Proxy bidding** — Standard Bid / Max Bid toggle on every BidForm. With Max Bid selected, enter a maximum and the system places the minimum valid bid immediately, stores the max in localStorage (keyed as maxBids[vehicleId]), and shows "Auto-bidding active up to your maximum." On any detail page load, if the vehicle's current bid exceeds the stored max, an outbid warning is shown.
+
 ---
 
 ## Notable Decisions
@@ -129,12 +135,8 @@ The AI product feature — the Condition Summary — was designed as a pre-compu
 
 ## What I'd Do With More Time
 
-**Compare mode** — Side-by-side comparison of two vehicles with highlighted differences on condition grade, bid amount, and specs. The data structure and compare state in AppContext are already in place. This was scoped out to protect core quality within the timebox.
-
 **Evaluation layer for AI summaries** — A script that runs the summaries through a quality rubric: minimum length, no hallucinated vehicle details, specific damage note references. The enrich script generates summaries but does not validate them systematically.
 
 **Real-time bid updates** — WebSocket connection so bid state updates across tabs and sessions. The current localStorage approach is single-session only.
-
-**Proxy bidding** — Set a maximum bid and let the system auto-increment up to it. More realistic auction mechanic than manual increment bidding.
 
 **Image handling** — Real vehicle photography integration. The current SVG placeholders are clean but obviously placeholder.
